@@ -15,4 +15,4 @@
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidCavallaro&show_icons=true&theme=radical)
 - 💬 [Click me](https://discord.bio/p/CavallaroDavid03) for more information!
-- 
+- ✨ Join in my Discord server! [Click me!](https://dsc.gg/chillcastle)
