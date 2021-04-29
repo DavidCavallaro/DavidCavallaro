@@ -7,7 +7,8 @@ Here are some ideas to get you started:
      HTML
      CSS
      JavaScript
-- 👯 I’m looking to collaborate on ...
+- 👯 My stats:
+     ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidCavallaro&count_private=true&show_icons=true&theme=radical)
 - 🤔 I’m looking for help with MarshBot
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
