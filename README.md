@@ -10,9 +10,11 @@
      Python.
 <hr>
 - 👯 My stats:
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidCavallaro&count_private=true&show_icons=true&theme=radical)
 <hr>
 - 🤔 My language:
+
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidCavallaro&show_icons=true&theme=radical)
 - 💬 [Click me](https://discord.bio/p/CavallaroDavid03) for more information!
 - ✨ Join in my Discord server! [Click me!](https://dsc.gg/chillcastle)
