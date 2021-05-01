@@ -2,7 +2,10 @@
 
 **I introduce myself!**
 <hr>
+
 - 🔭 I’m currently working on [Wumps](https://discord.com/oauth2/authorize?client_id=729701120854982706&scope=bot&permissions=2452750167)
+
+<hr>
 - 🌱 My skills:
      HTML, 
      CSS, 
@@ -16,7 +19,11 @@
 - 🤔 My language:
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidCavallaro&show_icons=true&theme=radical)
+<hr>
+
 - 💬 [Click me](https://discord.bio/p/CavallaroDavid03) for more information!
+<hr>
+
 - ✨ Join in my Discord server! [Click me!](https://dsc.gg/chillcastle)
 
 <hr>
