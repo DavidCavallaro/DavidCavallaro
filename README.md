@@ -19,9 +19,3 @@
 <img src="https://github-profile-trophy.vercel.app/?username=DavidCavallaro&theme=dracula">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DavidCavallaro&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-4-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-1-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-3-blueviolet)
-
-<details>
-    <summary><b>GitHub</b> Activity</summary>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=DavidCavallaro&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidCavallaro&theme=tokyonight&hide=batchfile">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidCavallaro&theme=tokyonight">
-</details>
