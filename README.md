@@ -18,4 +18,4 @@
 ## Stats
 <img src="https://github-profile-trophy.vercel.app/?username=DavidCavallaro&theme=dracula">
 
-![Profile Views](https://komarev.com/ghpvc/?username=DavidCavallaro&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-3-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-1-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-2-blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=DavidCavallaro&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-3-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-1-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-3-blueviolet)
