@@ -1,29 +1,19 @@
 ### Hi there 👋
 
 **I introduce myself!**
-<hr>
-
+<h2 align="left">My Discord bot:</h2>
 - 🔭 I’m currently working on [Wumps](https://discord.com/oauth2/authorize?client_id=729701120854982706&scope=bot&permissions=2452750167)
 
-<hr>
-- 🌱 My skills:
-     HTML, 
-     CSS, 
-     JavaScript, 
-     Python.
-<hr>
-- 👯 My stats:
+<h2 align="left">My stats:</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidCavallaro&count_private=true&show_icons=true&theme=radical)
-<hr>
-- 🤔 My language:
+![GitHub](https://github-readme-stats.vercel.app/api?username=DavidCavallaro&count_private=true&show_icons=true&theme=radical)
+<h2 align="left">Language statistics:</h2>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidCavallaro&show_icons=true&theme=radical)
-<hr>
-
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidCavallaro&show_icons=true&theme=radical)
+<h2 align="left">Follow me on discord.bio:</h2>
 - 💬 [Click me](https://discord.bio/p/CavallaroDavid03) for more information!
-<p align="left"> 
-
+- 
+<h2 align="left">Discord Server:</h2>
 - ✨ Join in my Discord server! [Click me!](https://dsc.gg/chillcastle)
 
 <hr>
