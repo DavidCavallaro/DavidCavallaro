@@ -22,7 +22,7 @@
 <hr>
 
 - 💬 [Click me](https://discord.bio/p/CavallaroDavid03) for more information!
-<hr>
+<p align="left"> 
 
 - ✨ Join in my Discord server! [Click me!](https://dsc.gg/chillcastle)
 
