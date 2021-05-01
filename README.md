@@ -17,14 +17,4 @@
 ## Stats
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=DavidCavallaro&theme=dracula"></div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=DavidCavallaro&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-120-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-4-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-236-blueviolet)
-
-<!--START_SECTION:waka-->
-```text
-Other        49 hrs 12 mins  ███████████████████░░░░░░   75.43 % 
-TypeScript   10 hrs 1 min    ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-JavaScript   3 hrs 14 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-HTML         1 hr 23 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-JSON         26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-```
-<!--END_SECTION:waka-->
+![Profile Views](https://komarev.com/ghpvc/?username=DavidCavallaro&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-3-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-1-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-3-blueviolet)
