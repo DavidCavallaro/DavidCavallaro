@@ -7,9 +7,6 @@
 ## Discord:
 ✨  Join in my Discord server! [Click me!](https://dsc.gg/chillcastle)
 ## My stats:
-
-<img align="center" style="padding:0" src="https://github-readme-stats.vercel.app/api?username=DavidCavallaro&count_private=true&show_icons=true&theme=radical" alt="diced's Github Stats"><img align="center" style="padding:0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidCavallaro&show_icons=true&theme=radical" alt="diced's Github Langs">
-
 ![GitHub](https://github-readme-stats.vercel.app/api?username=DavidCavallaro&count_private=true&show_icons=true&theme=radical) 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidCavallaro&show_icons=true&theme=radical)
 ## Languages and Tools:
