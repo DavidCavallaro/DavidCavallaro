@@ -19,3 +19,5 @@
 <img src="https://github-profile-trophy.vercel.app/?username=DavidCavallaro&theme=dracula">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DavidCavallaro&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-9-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-1-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-8-blueviolet)
+
+- From [@DavidCavallaro](https://github.com/DavidCavallaro) with love <3
