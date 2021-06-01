@@ -1,12 +1,15 @@
 ### Hi there. I'm David! 👋
 <h2 align="left">My Discord bot:</h2>
 
-🔭  I’m currently working on [Wumps](https://discord.com/oauth2/authorize?client_id=729701120854982706&scope=bot&permissions=2452750167)
+🔭  I’m currently working on [Wumps](https://discord.com/oauth2/authorize?client_id=729701120854982706&scope=bot&permissions=2452750167).
 ## Follow me on discord.bio:
 💬  [Click me](https://discord.bio/p/CavallaroDavid03) for more information!
-## Discord Server:
+## Discord:
 ✨  Join in my Discord server! [Click me!](https://dsc.gg/chillcastle)
 ## My stats:
+
+<img align="center" style="padding:0" src="https://github-readme-stats.vercel.app/api?username=DavidCavallaro&count_private=true&show_icons=true&theme=radical" alt="diced's Github Stats"><img align="center" style="padding:0" src="ttps://github-readme-stats.vercel.app/api/top-langs/?username=DavidCavallaro&show_icons=true&theme=radical" alt="diced's Github Langs">
+
 ![GitHub](https://github-readme-stats.vercel.app/api?username=DavidCavallaro&count_private=true&show_icons=true&theme=radical) 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidCavallaro&show_icons=true&theme=radical)
 ## Languages and Tools:
