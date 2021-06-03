@@ -19,7 +19,3 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=DavidCavallaro&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-9-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-1-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-8-blueviolet)
 
 - From [@DavidCavallaro](https://github.com/DavidCavallaro) with love <3
-
-### 🎶 Currently listening on Spotify
-
-[<img src="https://spotify-listening-status.cavallaro03.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />](https://open.spotify.com)
