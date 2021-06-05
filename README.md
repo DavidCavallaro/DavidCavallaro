@@ -59,9 +59,10 @@ Twitch:
 
 <h2 align="left">Contact:</h2>
 
-- Discord: zDavid#3885
-- Telegram: [@DavidCavallaro](https://t.me/DavidCavallaro)
-- My Community: [![Discord](https://media.discordapp.net/attachments/707143154297602108/848984393518153768/chill_vabes.jpg)](https://dsc.gg/chillvabes)
-- GitHub: [DavidCavallaro](https://github.com/DavidCavallaro)
+- Discord: zDavid#3885;
+- Telegram: [@DavidCavallaro](https://t.me/DavidCavallaro);
+- GitHub: [DavidCavallaro](https://github.com/DavidCavallaro).
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DavidCavallaro&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-9-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-1-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-8-blueviolet)
+
+[![Discord](https://media.discordapp.net/attachments/707143154297602108/848984393518153768/chill_vabes.jpg)](https://dsc.gg/chillvabes)
