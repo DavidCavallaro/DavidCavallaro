@@ -1,5 +1,6 @@
 ### Hi there. I'm David! 👋
 <h2 align="left">Biography:</h2>
+
 - Name: David
 - Age: 17
 - Birthday: 27/07
