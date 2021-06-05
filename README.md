@@ -18,7 +18,7 @@
 <h2 align="left">Curriculum:</h2>
 
 Discord:
-- Owner for ChillWumpsHouse (+1000 users);
+- Ex Owner for ChillWumpsHouse (+1000 users);
 - Owner for [Chill Vabes](https://dsc.gg/chillvabes) (+1700 users);
 - Executive Admin for [TheZoo Community](https://discord.gg/c2mkpPAw8J) (+12500 users);
 - Developer for [KuraiK](https://discord.gg/PW4MAvhMRe) (+1100 users);
@@ -31,8 +31,16 @@ Minecraft:
 - Ex ChatMod for [RubyCraft](https://www.minecraft-italia.it/server/rubycraft) (+30 Online).
 
 Twitch:
-- Ex Moderator for [psycocat_](https://www.twitch.tv/psycocat_)
-- Moderator for [Gayasai](https://www.twitch.tv/gayasai)
+- Ex Moderator for [psycocat_](https://www.twitch.tv/psycocat_);
+- Ex Moderator for [Gayasai](https://www.twitch.tv/gayasai).
+
+<h2 align="left">Active Projects:</h2>
+
+- [Wumps](https://discord.com/oauth2/authorize?client_id=729701120854982706&scope=bot&permissions=2452750167): Discord Bot;
+- [Chill Vabes](https://dsc.gg/chillvabes): Discord Server;
+- [EvoStack Forum](https://forum.evostack.cloud/public/): Forum;
+- VabesNetwork: Minecraft Server.
+
 
 🔭 I’m currently working on [Wumps](https://discord.com/oauth2/authorize?client_id=729701120854982706&scope=bot&permissions=2452750167).
 ## Follow me on discord.bio:
