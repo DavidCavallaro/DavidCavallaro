@@ -1,10 +1,24 @@
 ### Hi there. I'm David! 👋
 <h2 align="left">Biography:</h2>
 
-- Name: David
-- Age: 17
-- Birthday: 27/07
+- Name: David;
+- Age: 17;
+- Birthday: 27/07;
+- Residence: Italy, Piemonte;
+- School: Liceo, Musical Address.
 
+<h2 align="left">Hobbies and Passions::</h2>
+
+- Music;
+- Gaming;
+- Film;
+- Swimming;
+- Computer Technology.
+
+<h2 align="left">Contact:</h2>
+- Discord: zDavid#3885
+- Telegram: @DavidCavallaro
+- My Community: https://dsc.gg/chillvabes
 🔭 I’m currently working on [Wumps](https://discord.com/oauth2/authorize?client_id=729701120854982706&scope=bot&permissions=2452750167).
 ## Follow me on discord.bio:
 💬  [Click me](https://discord.bio/p/CavallaroDavid03) for more information!
