@@ -1,7 +1,10 @@
 ### Hi there. I'm David! 👋
-<h2 align="left">My Discord bot:</h2>
+<h2 align="left">Biography:</h2>
+- Name: David
+- Age: 17
+- Birthday: 27/07
 
-🔭  I’m currently working on [Wumps](https://discord.com/oauth2/authorize?client_id=729701120854982706&scope=bot&permissions=2452750167).
+🔭 I’m currently working on [Wumps](https://discord.com/oauth2/authorize?client_id=729701120854982706&scope=bot&permissions=2452750167).
 ## Follow me on discord.bio:
 💬  [Click me](https://discord.bio/p/CavallaroDavid03) for more information!
 ## Discord:
