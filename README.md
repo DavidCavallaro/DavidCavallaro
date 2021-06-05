@@ -1,4 +1,4 @@
-Index: [Biography](https://github.com/DavidCavallaro#biography) | [Hobbies](https://github.com/DavidCavallaro#hobbies) | [Curriculum](https://github.com/DavidCavallaro/DavidCavallaro#curriculum) | [Activity Project](https://github.com/DavidCavallaro/DavidCavallaroactive-projects) | [Languages and Tools](https://github.com/DavidCavallaro/DavidCavallaro#languages-and-tools) |  [Stats](https://github.com/DavidCavallaro/DavidCavallaro#stats) | [Trophies](https://github.com/DavidCavallaro/DavidCavallaro#trophies) | [Contact](https://github.com/DavidCavallaro/DavidCavallaro#contact)
+Index: [Biography](https://github.com/DavidCavallaro#biography) | [Hobbies](https://github.com/DavidCavallaro#hobbies) | [Curriculum](https://github.com/DavidCavallaro#curriculum) | [Activity Project](https://github.com/DavidCavallaro#active-projects) | [Languages and Tools](https://github.com/DavidCavallaro#languages-and-tools) |  [Stats](https://github.com/DavidCavallaro#stats) | [Trophies](https://github.com/DavidCavallaro#trophies) | [Contact](https://github.com/DavidCavallaro#contact)
 
 ### Hi there. I'm David! 👋
 <h2 align="left">Biography:</h2>
