@@ -19,15 +19,19 @@
 
 Discord:
 - Owner for ChillWumpsHouse (+1000 users);
-- Owner for Chill Vabes (+1700 users);
-- Executive Admin for TheZoo Community (+12500 users);
-- Developer for KuraiK (+1100 users);
-- Moderator for Mappa Discord Italia (+500 users).
+- Owner for [Chill Vabes](https://dsc.gg/chillvabes) (+1700 users);
+- Executive Admin for [TheZoo Community](https://discord.gg/c2mkpPAw8J) (+12500 users);
+- Developer for [KuraiK](https://discord.gg/PW4MAvhMRe) (+1100 users);
+- Moderator for [Mappa Discord Italia](https://discord.gg/zRRuJ2E) (+500 users).
 Minecraft:
 - Ex Owner for KalyNetwork (+15 Online);
 - Ex Admin for [ImperialCraft](https://www.minecraft-italia.it/server/imperialcraft) (+50 Online);
-- Moderator for [MineJoJo](https://www.minecraft-italia.it/server/minejojo) (+20 Online).
-
+- Moderator for [MineJoJo](https://www.minecraft-italia.it/server/minejojo) (+20 Online);
+- Ex ChatMod for [RubyCraft](https://www.minecraft-italia.it/server/rubycraft) (+30 Online).
+Twitch:
+- Ex Moderator for [psycocat_](https://www.twitch.tv/psycocat_)
+- Moderator for [Gayasai](https://www.twitch.tv/gayasai)
+- 
 🔭 I’m currently working on [Wumps](https://discord.com/oauth2/authorize?client_id=729701120854982706&scope=bot&permissions=2452750167).
 ## Follow me on discord.bio:
 💬  [Click me](https://discord.bio/p/CavallaroDavid03) for more information!
