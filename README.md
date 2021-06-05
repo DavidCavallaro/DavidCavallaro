@@ -7,7 +7,7 @@ Index: [Biography](https://github.com/DavidCavallaro/DavidCavallaro/blob/main/RE
 - Age: 17;
 - Birthday: 27/07;
 - Residence: Italy, Piemonte;
-- School: Liceo, Musical Address.
+- School: Musical High School.
 
 <h2 align="left">Hobbies:</h2>
 
