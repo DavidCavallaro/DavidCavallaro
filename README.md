@@ -16,9 +16,11 @@
 - Computer Technology.
 
 <h2 align="left">Contact:</h2>
+
 - Discord: zDavid#3885
 - Telegram: @DavidCavallaro
 - My Community: [![Discord](https://media.discordapp.net/attachments/707143154297602108/848984393518153768/chill_vabes.jpg)](https://dsc.gg/chillvabes)
+- 
 🔭 I’m currently working on [Wumps](https://discord.com/oauth2/authorize?client_id=729701120854982706&scope=bot&permissions=2452750167).
 ## Follow me on discord.bio:
 💬  [Click me](https://discord.bio/p/CavallaroDavid03) for more information!
