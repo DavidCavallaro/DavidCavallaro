@@ -24,7 +24,9 @@ Discord:
 - Owner for [Chill Vabes](https://dsc.gg/chillvabes) (+1700 users);
 - Executive Admin for [TheZoo Community](https://discord.gg/c2mkpPAw8J) (+12500 users);
 - Developer for [KuraiK](https://discord.gg/PW4MAvhMRe) (+1100 users);
-- Moderator for [Mappa Discord Italia](https://discord.gg/zRRuJ2E) (+500 users).
+- Moderator for [Mappa Discord Italia](https://discord.gg/zRRuJ2E) (+500 users);
+- Informant for [Favij's Sgabuzzino](https://discord.gg/favij) (+15000 users).
+- Informant for [Lo Stormo di Sbriser](https://discord.gg/sbriser) (+35000 users).
 
 Minecraft:
 - Ex Owner for KalyNetwork (+15 Online);
