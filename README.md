@@ -36,7 +36,8 @@ Minecraft:
 
 Twitch:
 - Ex Moderator for [psycocat_](https://www.twitch.tv/psycocat_);
-- Ex Moderator for [Gayasai](https://www.twitch.tv/gayasai).
+- Ex Moderator for [Gayasai](https://www.twitch.tv/gayasai);
+- Ex Moderator for [XpazzoX](https://www.twitch.tv/xpazzox_official).
 
 <h2 align="left">Active Projects:</h2>
 
