@@ -22,7 +22,7 @@ Index: [Biography](https://github.com/DavidCavallaro#biography) | [Hobbies](http
 Discord:
 - Ex Owner for ChillWumpsHouse (+1000 users);
 - Owner for [Chill Vabes](https://dsc.gg/chillvabes) (+1700 users);
-- Executive Admin for [TheZoo Community](https://discord.gg/c2mkpPAw8J) (+12500 users);
+- Ex Executive Admin for [TheZoo Community](https://discord.gg/c2mkpPAw8J) (+12500 users);
 - Developer for [KuraiK](https://discord.gg/PW4MAvhMRe) (+1100 users);
 - Moderator for [Mappa Discord Italia](https://discord.gg/zRRuJ2E) (+500 users);
 - Informant for [Favij's Sgabuzzino](https://discord.gg/favij) (+15000 users);
