@@ -20,9 +20,9 @@ Index: [Biography](https://github.com/DavidCavallaro#biography) | [Hobbies](http
 <h2 align="left">Curriculum:</h2>
 
 Discord:
-- Ex Owner for ChillWumpsHouse (+1000 users);
+- Ex Owner for ChillWumpsHouse (+1000 users) [inactivity];
 - Owner for [Chill Vabes](https://dsc.gg/chillvabes) (+1700 users);
-- Ex Executive Admin for [TheZoo Community](https://discord.gg/c2mkpPAw8J) (+12500 users);
+- Ex Executive Admin for [TheZoo Community](https://discord.gg/c2mkpPAw8J) (+12500 users) [lack of professionalism of the staff];
 - Developer for [KuraiK](https://discord.gg/PW4MAvhMRe) (+1100 users);
 - Moderator for [Mappa Discord Italia](https://discord.gg/zRRuJ2E) (+500 users);
 - Informant for [Favij's Sgabuzzino](https://discord.gg/favij) (+15000 users);
@@ -30,15 +30,15 @@ Discord:
 - Bug Hunter for [Discord](https://discord.gg/discord-testers).
 
 Minecraft:
-- Ex Owner for KalyNetwork (+15 Online);
-- Ex Admin for [ImperialCraft](https://www.minecraft-italia.it/server/imperialcraft) (+50 Online);
+- Ex Owner for KalyNetwork (+15 Online) [closed];
+- Ex Admin for [ImperialCraft](https://www.minecraft-italia.it/server/imperialcraft) (+50 Online) [lack of professionalism of the owner];
 - Moderator for [MineJoJo](https://www.minecraft-italia.it/server/minejojo) (+20 Online);
-- Ex ChatMod for [RubyCraft](https://www.minecraft-italia.it/server/rubycraft) (+30 Online).
+- Ex ChatMod for [RubyCraft](https://www.minecraft-italia.it/server/rubycraft) (+30 Online) [lack of professionalism of the staff].
 
 Twitch:
-- Ex Moderator for [psycocat_](https://www.twitch.tv/psycocat_);
-- Ex Moderator for [Gayasai](https://www.twitch.tv/gayasai);
-- Ex Moderator for [XpazzoX](https://www.twitch.tv/xpazzox_official).
+- Ex Moderator for [psycocat_](https://www.twitch.tv/psycocat_) [inactivity of the channel];
+- Ex Moderator for [Gayasai](https://www.twitch.tv/gayasai) [inactivity of the channel];
+- Ex Moderator for [XpazzoX](https://www.twitch.tv/xpazzox_official) [inactivity of the channel].
 
 <h2 align="left">Active Projects:</h2>
 
