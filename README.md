@@ -5,7 +5,7 @@ Index: [Biography](https://github.com/DavidCavallaro#biography) | [Hobbies](http
 
 - Name: David;
 - Age: 17;
-- Birthday: 27/07;
+- Birthday: 27-09;
 - Residence: Italy, Piemonte;
 - School: Musical High School.
 
