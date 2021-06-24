@@ -27,7 +27,7 @@ Discord:
 - Ex Executive Admin for [TheZoo Community](https://discord.gg/c2mkpPAw8J) (+12500 users) [left for: lack of professionalism of the staff];
 - Moderator for [InfinityBotList](https://botlist.site) | [GitHub](https://github.com/InfinityBotList);
 - Moderator for [Mappa Discord Italia](https://discord.gg/zRRuJ2E) (+500 users);
-- Developer for [KuraiK](https://discord.gg/PW4MAvhMRe) (+1100 users);
+- Developer for [KuraiK](https://discord.gg/PW4MAvhMRe) (+1100 users) [left for: lack of professionalism of the staff];
 - Informant for [Favij's Sgabuzzino](https://discord.gg/favij) (+15000 users);
 - Informant for [Lo Stormo di Sbriser](https://discord.gg/sbriser) (+35000 users);
 - Bug Hunter for [Discord](https://discord.gg/discord-testers).
