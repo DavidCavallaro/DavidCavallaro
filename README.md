@@ -20,11 +20,11 @@ Index: [Biography](https://github.com/DavidCavallaro#biography) | [Hobbies](http
 <h2 align="left">Curriculum:</h2>
 
 Organization:
-- [Chill Vabes](https://github.com/Chill-Vabes).
+- [Chill Vibes](https://github.com/Chill-Vabes).
 
 Discord:
 - Ex Owner for ChillWumpsHouse (+1000 users) [left for: inactivity];
-- Owner for [Chill Vabes](https://dsc.gg/chillvabes) (+1700 users);
+- Owner for [Chill Vibes](https://dsc.gg/chillvibes-server) (+1700 users);
 - Ex Executive Admin for [TheZoo Community](https://discord.gg/c2mkpPAw8J) (+12500 users) [left for: lack of professionalism of the staff];
 - Moderator for [InfinityBotList](https://botlist.site) | [GitHub](https://github.com/InfinityBotList);
 - Moderator for [Mappa Discord Italia](https://discord.gg/zRRuJ2E) (+500 users);
@@ -47,7 +47,7 @@ Twitch:
 <h2 align="left">Active Projects:</h2>
 
 - [Wumps](https://discord.com/oauth2/authorize?client_id=729701120854982706&scope=bot&permissions=2452750167): Discord Bot;
-- [Chill Vabes](https://dsc.gg/chillvabes): Discord Server;
+- [Chill Vibes](https://dsc.gg/chillvabes): Discord Server;
 - [EvoStack Forum](https://forum.evostack.cloud/public/): Forum;
 - VabesNetwork: Minecraft Server.
 
@@ -78,5 +78,5 @@ Twitch:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DavidCavallaro&color=blueviolet) ![Profile Followers](https://img.shields.io/badge/Followers-10-blueviolet) [![Join Now](https://discordapp.com/api/guilds/503190685118103574/widget.png)](https://dsc.gg/chillvabes) ![Profile Following](https://img.shields.io/badge/Following-6-blueviolet) ![Profile Stars](https://img.shields.io/badge/Stars-9-blueviolet)
 
-[![Discord](https://media.discordapp.net/attachments/707143154297602108/848984393518153768/chill_vabes.jpg)](https://dsc.gg/chillvabes)
+[![Discord](https://media.discordapp.net/attachments/707143154297602108/848984393518153768/chill_vabes.jpg)](dsc.gg/chillvibes-server)
 [![Forum](https://forum.evostack.cloud/public/assets/files/2021-02-13/1613218237-834689-1613157803-207458-banner-evostack.png)](https://forum.evostack.cloud/public/)
