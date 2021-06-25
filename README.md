@@ -19,7 +19,8 @@ Index: [Biography](https://github.com/DavidCavallaro#biography) | [Hobbies](http
 
 <h2 align="left">Curriculum:</h2>
 
-My Organization: [Chill Vabes](https://github.com/Chill-Vabes)
+Organization:
+- [Chill Vabes](https://github.com/Chill-Vabes).
 
 Discord:
 - Ex Owner for ChillWumpsHouse (+1000 users) [left for: inactivity];
