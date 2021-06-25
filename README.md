@@ -73,7 +73,7 @@ Twitch:
 <h2 align="left">Contact:</h2>
 
 - Discord: zDavid#3885;
-- Telegram: [@DavidCavallaro](https://t.me/DavidCavallaro);
+- Telegram: [@RoxyDiscord](https://t.me/RoxyDiscord);
 - GitHub: [DavidCavallaro](https://github.com/DavidCavallaro).
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DavidCavallaro&color=blueviolet) ![Profile Followers](https://img.shields.io/badge/Followers-10-blueviolet) [![Join Now](https://discordapp.com/api/guilds/503190685118103574/widget.png)](https://dsc.gg/chillvabes) ![Profile Following](https://img.shields.io/badge/Following-6-blueviolet) ![Profile Stars](https://img.shields.io/badge/Stars-9-blueviolet)
