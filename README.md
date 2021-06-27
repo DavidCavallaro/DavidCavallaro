@@ -32,9 +32,9 @@ Discord:
 Projects Left
 - Ex Owner for ChillWumpsHouse (+1000 users) [left for: inactivity];
 - Ex Administrator for GamingCommunityItalian (+900 users) [left for: inactivity];
-- Ex Executive Admin for [TheZoo Community](https://discord.gg/c2mkpPAw8J) (+12500 users) [left for: lack of professionalism of the staff];
-- Ex Moderator for [InfinityBotList](https://botlist.site) | [GitHub](https://github.com/InfinityBotList);
-- Ex Developer for [KuraiK](https://discord.gg/PW4MAvhMRe) (+1300 users) [left for: lack of professionalism of the staff];
+- Ex Executive Admin for [TheZoo Community](https://discord.gg/c2mkpPAw8J) (+12000 users) [left for: lack of professionalism of the Staff];
+- Ex Moderator for [InfinityBotList](https://botlist.site) | [GitHub](https://github.com/InfinityBotList) [left for: lack of professionalism of the Staff Managers];
+- Ex Developer for [KuraiK](https://discord.gg/PW4MAvhMRe) (+1300 users) [left for: lack of professionalism of the Staff];
 - Ex Helper, Moderator, Admin and Administrator for [SpaceHub](https://discord.gg/nN9FW5zhvM);
 - Ex Helper, Moderator, Admin, Administrator and Owner for PokèWorld (+800 users);
 - Ex Helper, Moderator and Staff Manager for EthyriumZone (+400 users).
@@ -42,9 +42,9 @@ Projects Left
 Minecraft:
 - Moderator for [MineJoJo](https://www.minecraft-italia.it/server/minejojo) (+20 Online);
 - Ex Helper, Admin and Owner for KalyNetwork (+25 Online) [left for: closed];
-- Ex Developer and Owner for SkyFire [left for: lack of professionalism of the owner];
-- Ex Admin for [ImperialCraft](https://www.minecraft-italia.it/server/imperialcraft) (+50 Online) [left for: lack of professionalism of the owner and administrator];
-- Ex ChatMod for [RubyCraft](https://www.minecraft-italia.it/server/rubycraft) (+30 Online) [left for: lack of professionalism of the staff].
+- Ex Developer and Owner for SkyFire [left for: lack of professionalism of the Owner];
+- Ex Admin for [ImperialCraft](https://www.minecraft-italia.it/server/imperialcraft) (+50 Online) [left for: lack of professionalism of the Owner and Administrator];
+- Ex ChatMod for [RubyCraft](https://www.minecraft-italia.it/server/rubycraft) (+30 Online) [left for: lack of professionalism of the Staff].
 
 Twitch:
 - Ex Moderator for [psycocat_](https://www.twitch.tv/psycocat_) [left for: inactivity of the channel];
