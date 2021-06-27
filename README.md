@@ -23,33 +23,44 @@ Organization:
 - [Chill Vibes](https://github.com/Chill-Vabes).
 
 Discord:
-- Ex Owner for ChillWumpsHouse (+1000 users) [left for: inactivity];
 - Owner for [Chill Vibes](https://dsc.gg/chillvibes-server) (+1700 users);
-- Ex Executive Admin for [TheZoo Community](https://discord.gg/c2mkpPAw8J) (+12500 users) [left for: lack of professionalism of the staff];
-- Moderator for [InfinityBotList](https://botlist.site) | [GitHub](https://github.com/InfinityBotList);
 - Moderator for [Mappa Discord Italia](https://discord.gg/zRRuJ2E) (+500 users);
-- Developer for [KuraiK](https://discord.gg/PW4MAvhMRe) (+1100 users) [left for: lack of professionalism of the staff];
 - Informant for [Favij's Sgabuzzino](https://discord.gg/favij) (+15000 users);
 - Informant for [Lo Stormo di Sbriser](https://discord.gg/sbriser) (+35000 users);
 - Bug Hunter for [Discord](https://discord.gg/discord-testers).
 
+Projects Left
+- Ex Owner for ChillWumpsHouse (+1000 users) [left for: inactivity];
+- Ex Administrator for GamingCommunityItalian (+900 users) [left for: inactivity];
+- Ex Executive Admin for [TheZoo Community](https://discord.gg/c2mkpPAw8J) (+12500 users) [left for: lack of professionalism of the staff];
+- Ex Moderator for [InfinityBotList](https://botlist.site) | [GitHub](https://github.com/InfinityBotList);
+- Ex Developer for [KuraiK](https://discord.gg/PW4MAvhMRe) (+1300 users) [left for: lack of professionalism of the staff];
+- Ex Helper, Moderator, Admin and Administrator for [SpaceHub](https://discord.gg/nN9FW5zhvM);
+- Ex Helper, Moderator, Admin, Administrator and Owner for PokèWorld (+800 users);
+- Ex Helper, Moderator and Staff Manager for EthyriumZone (+400 users).
+
 Minecraft:
-- Ex Owner for KalyNetwork (+15 Online) [left for: closed];
-- Ex Admin for [ImperialCraft](https://www.minecraft-italia.it/server/imperialcraft) (+50 Online) [left for: lack of professionalism of the owner];
 - Moderator for [MineJoJo](https://www.minecraft-italia.it/server/minejojo) (+20 Online);
+- Ex Helper, Admin and Owner for KalyNetwork (+25 Online) [left for: closed];
+- Ex Developer and Owner for SkyFire [left for: lack of professionalism of the owner];
+- Ex Admin for [ImperialCraft](https://www.minecraft-italia.it/server/imperialcraft) (+50 Online) [left for: lack of professionalism of the owner and administrator];
 - Ex ChatMod for [RubyCraft](https://www.minecraft-italia.it/server/rubycraft) (+30 Online) [left for: lack of professionalism of the staff].
 
 Twitch:
 - Ex Moderator for [psycocat_](https://www.twitch.tv/psycocat_) [left for: inactivity of the channel];
 - Ex Moderator for [Gayasai](https://www.twitch.tv/gayasai) [left for: inactivity of the channel];
-- Ex Moderator for [XpazzoX](https://www.twitch.tv/xpazzox_official) [left for: inactivity of the channel].
+- Ex Moderator for [XpazzoX](https://www.twitch.tv/xpazzox_official) [left for: inactivity of the channel];
+- Ex Moderator for [Al01ne](https://www.twitch.tv/ald01ne) [left for: inactivity of the channel].
 
 <h2 align="left">Active Projects:</h2>
 
 - [Wumps](https://discord.com/oauth2/authorize?client_id=729701120854982706&scope=bot&permissions=2452750167): Discord Bot;
+- [Toshiiro](https://discord.com/oauth2/authorize?client_id=713844523247075470&scope=bot&permissions=2452750167): Discord Bot;
+- [Harris](https://discord.com/oauth2/authorize?client_id=752502711261462588&scope=bot&permissions=2452750167): Discord Bot;
 - [Chill Vibes](https://dsc.gg/chillvabes): Discord Server;
-- [EvoStack Forum](https://forum.evostack.cloud/public/): Forum;
-- VabesNetwork: Minecraft Server.
+- [Chill Vibes Organization](https://github.com/Chill-Vabes): Documentation and More;
+- [EvoStack](https://forum.evostack.cloud/public/): Forum;
+- VabesNetwork: Minecraft Server (maintenance).
 
 <h2 align="left">Languages and Tools:</h2>
 
@@ -72,7 +83,7 @@ Twitch:
 
 <h2 align="left">Contact:</h2>
 
-- Discord: zDavid#3885;
+- Discord: Roxy#3885;
 - Telegram: [@RoxyDiscord](https://t.me/RoxyDiscord);
 - GitHub: [DavidCavallaro](https://github.com/DavidCavallaro).
 
