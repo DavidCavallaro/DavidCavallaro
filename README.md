@@ -35,7 +35,7 @@ Projects Left
 - Ex Executive Admin for [TheZoo Community](https://discord.gg/c2mkpPAw8J) (+12000 users) [left for: lack of professionalism of the Staff];
 - Ex Moderator for [InfinityBotList](https://botlist.site) | [GitHub](https://github.com/InfinityBotList) [left for: lack of professionalism of the Staff Managers];
 - Ex Developer for [KuraiK](https://discord.gg/PW4MAvhMRe) (+1300 users) [left for: lack of professionalism of the Staff];
-- Ex Helper, Moderator, Admin and Administrator for [SpaceHub](https://discord.gg/nN9FW5zhvM);
+- Ex Helper, Moderator, Admin and Administrator for [SpaceHub](https://discord.gg/nN9FW5zhvM) [left for: lack of professionalism of the Owner];
 - Ex Helper, Moderator, Admin, Administrator and Owner for PokèWorld (+800 users);
 - Ex Helper, Moderator and Staff Manager for EthyriumZone (+400 users).
 
