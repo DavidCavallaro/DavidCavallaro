@@ -87,7 +87,7 @@ Twitch:
 - Telegram: [@RoxyDiscord](https://t.me/RoxyDiscord);
 - GitHub: [DavidCavallaro](https://github.com/DavidCavallaro).
 
-![Profile Views](https://komarev.com/ghpvc/?username=DavidCavallaro&color=blueviolet) ![Profile Followers](https://img.shields.io/badge/Followers-10-blueviolet) [![Join Now](https://discordapp.com/api/guilds/503190685118103574/widget.png)](https://dsc.gg/chillvabes) ![Profile Following](https://img.shields.io/badge/Following-6-blueviolet) ![Profile Stars](https://img.shields.io/badge/Stars-9-blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=DavidCavallaro&color=blueviolet) ![Profile Followers](https://img.shields.io/badge/Followers-10-blueviolet) [![Join Now](https://discordapp.com/api/guilds/503190685118103574/widget.png)](https://dsc.gg/chillvabes) ![Profile Following](https://img.shields.io/badge/Following-7-blueviolet) ![Profile Stars](https://img.shields.io/badge/Stars-16-blueviolet)
 
 [![Discord](https://media.discordapp.net/attachments/707143154297602108/848984393518153768/chill_vabes.jpg)](dsc.gg/chillvibes-server)
 [![Forum](https://forum.evostack.cloud/public/assets/files/2021-02-13/1613218237-834689-1613157803-207458-banner-evostack.png)](https://forum.evostack.cloud/public/)
