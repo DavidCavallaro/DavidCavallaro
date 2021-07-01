@@ -23,7 +23,7 @@ Physical Projects List:
 
 - Assistant and Employee for [Viotti Festival](http://www.viottifestival.it/_dynapage/index_Home.asp?pageId=78&primopiano=1);
 - Animator for the parish of [Santa Maria Maddalena](https://www.arcidiocesi.vc.it/vicarie/vercelli/parrocchia-santa-maria-maddalena/).
-
+___
 Online Projects List:
 
 Organization:
