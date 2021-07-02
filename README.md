@@ -3,7 +3,7 @@ Index: [Biography](https://github.com/DavidCavallaro#biography) | [Hobbies](http
 ### Hi there. I'm Roxy! 👋
 <h2 align="left">Biography:</h2>
 
-- Name: Roxy;
+- Name: David;
 - Age: 17;
 - Birthday: 27-09;
 - Residence: Italy, Piemonte;
@@ -63,8 +63,8 @@ Twitch Project:
 - [Wumps](https://discord.com/oauth2/authorize?client_id=729701120854982706&scope=bot&permissions=2452750167): Verified Discord Bot;
 - [Tea Time Anime BOT](https://discord.com/oauth2/authorize?client_id=715708694855417896&scope=bot%20applications.commands&permissions=2147483647): Verified Discord Bot;
 - [Friday Night Funkin' BOT](https://discord.com/oauth2/authorize?client_id=840217202862325780&scope=bot&permissions=37080640): Verified Discord Bot;
-- [Toshiiro](https://discord.com/oauth2/authorize?client_id=713844523247075470&scope=bot&permissions=2452750167): Verified Discord Bot;
-- [Harris](https://discord.com/oauth2/authorize?client_id=752502711261462588&scope=bot&permissions=2452750167): Verified Discord Bot;
+- [Toshiiro](https://discord.com/oauth2/authorize?client_id=713844523247075470&scope=bot&permissions=2452750167): Discord Bot;
+- [Harris](https://discord.com/oauth2/authorize?client_id=752502711261462588&scope=bot&permissions=2452750167): Discord Bot;
 - [Chill Vibes](https://dsc.gg/chillvabes): Discord Server;
 - [Chill Vibes Organization](https://github.com/Chill-Vabes): Documentation and More;
 - [EvoStack](https://forum.evostack.cloud/public/): Forum;
