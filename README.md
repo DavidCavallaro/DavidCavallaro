@@ -68,7 +68,7 @@ Twitch Project:
 - [Chill Vibes](https://dsc.gg/chillvabes): Discord Server;
 - [Chill Vibes Organization](https://github.com/Chill-Vabes): Documentation and More;
 - [EvoStack](https://forum.evostack.cloud/public/): Forum;
-- VabesNetwork: Minecraft Server (maintenance).
+- VibesNetwork: Minecraft Server (maintenance).
 
 <h2 align="left">Languages and Tools:</h2>
 
