@@ -29,13 +29,13 @@ Organization:
 - [Chill Vibes](https://github.com/Chill-Vabes).
 
 Discord Project:
-- Ex Owner for [Chill Vibes](https://dsc.gg/chillvibes-server) (+1700 users);
 - Moderator for [Mappa Discord Italia](https://discord.gg/zRRuJ2E) (+500 users);
 - Informant for [Favij's Sgabuzzino](https://discord.gg/favij) (+15000 users);
 - Informant for [Lo Stormo di Sbriser](https://discord.gg/sbriser) (+35000 users);
 - Bug Hunter for [Discord](https://discord.gg/discord-testers).
 
 Discord Projects Left:
+- Ex Owner for [Chill Vibes](https://dsc.gg/chillvibes-server) (+1700 users);
 - Ex Owner for ChillWumpsHouse (+1000 users) [left for: inactivity];
 - Ex Administrator for GamingCommunityItalian (+900 users) [left for: inactivity];
 - Ex Executive Admin for [TheZoo Community](https://discord.gg/c2mkpPAw8J) (+12000 users) [left for: lack of professionalism of the Staff];
