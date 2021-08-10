@@ -23,7 +23,8 @@ Physical Projects List.
 
 - Assistant and Employee for [Viotti Festival](http://www.viottifestival.it/_dynapage/index_Home.asp?pageId=78&primopiano=1);
 - Animator for the parish of [Santa Maria Maddalena](https://www.arcidiocesi.vc.it/vicarie/vercelli/parrocchia-santa-maria-maddalena/);
-- Concert performer and winner of a scholarship provided by "[Accademia del Ricercare](https://accademiadelricercare.com/)".
+- Concert performer and winner of a scholarship provided by "[Accademia del Ricercare](https://accademiadelricercare.com/)";
+- First flute in the concert in Romano Canavese on 01/08/2021 during the performance of the "[Grillen-Symphonie by Georg Philipp Telemann](https://youtu.be/PuFJ8VmwsOI)";
 ___
 Online Projects List.
 Organization:
