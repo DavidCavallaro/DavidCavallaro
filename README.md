@@ -1,28 +1,21 @@
 Index: [Biography](https://github.com/DavidCavallaro#biography) | [Hobbies](https://github.com/DavidCavallaro#hobbies) | [Curriculum](https://github.com/DavidCavallaro#curriculum) | [Activity Project](https://github.com/DavidCavallaro#active-projects) | [Languages and Tools](https://github.com/DavidCavallaro#languages-and-tools) |  [Stats](https://github.com/DavidCavallaro#stats) | [Trophies](https://github.com/DavidCavallaro#trophies) | [Contact](https://github.com/DavidCavallaro#contact)
 
 ### Hi there. I'm Roxy! 👋
-<h2 align="left">Biography:</h2>
+<h2 align="left">Informazioni Personali:</h2>
 
-- Name: David;
-- Age: 17;
-- Birthday: 27/09;
-- Residence: Italy, Piemonte;
-- School: Musical High School.
-
-<h2 align="left">Hobbies:</h2>
-
-- Music;
-- Gaming;
-- Film;
-- Swimming;
-- Computer Technology.
+- Nome e Cognome: David Cavallaro;
+- Età: 17;
+- Compleanno: 27 settembre;
+- Nato a: Piemonte, Italia;
+- Residente a: Piemonte, Italia;
+- Scuola frequentante: Liceo Musicale e Coreutico.
 
 <h2 align="left">Curriculum:</h2>
 
-Physical Projects List.
+Progetti attivi:
 
-- Assistant and Employee for [Viotti Festival](http://www.viottifestival.it/_dynapage/index_Home.asp?pageId=78&primopiano=1);
-- Animator for the parish of [Santa Maria Maddalena](https://www.arcidiocesi.vc.it/vicarie/vercelli/parrocchia-santa-maria-maddalena/);
+- Collaboratore per la stagione concertistica del [Viotti Festival](http://www.viottifestival.it/_dynapage/index_Home.asp?pageId=78&primopiano=1);
+- Animatore per la parrocchia di [Santa Maria Maddalena](https://www.arcidiocesi.vc.it/vicarie/vercelli/parrocchia-santa-maria-maddalena/);
 - Concert performer and winner of a scholarship provided by "[Accademia del Ricercare](https://accademiadelricercare.com/)";
 - First flute in the concert in Romano Canavese on 01/08/2021 during the performance of the "[Grillen-Symphonie by Georg Philipp Telemann](https://youtu.be/PuFJ8VmwsOI)";
 ___
