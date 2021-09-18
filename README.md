@@ -16,19 +16,17 @@ Progetti attivi:
 
 - Collaboratore per la stagione concertistica del [Viotti Festival](http://www.viottifestival.it/_dynapage/index_Home.asp?pageId=78&primopiano=1);
 - Animatore per la parrocchia di [Santa Maria Maddalena](https://www.arcidiocesi.vc.it/vicarie/vercelli/parrocchia-santa-maria-maddalena/);
-- Concert performer and winner of a scholarship provided by "[Accademia del Ricercare](https://accademiadelricercare.com/)";
-- First flute in the concert in Romano Canavese on 01/08/2021 during the performance of the "[Grillen-Symphonie by Georg Philipp Telemann](https://youtu.be/PuFJ8VmwsOI)";
-___
-Online Projects List.
-Organization:
-- [Chill Vibes](https://github.com/Chill-Vabes).
-
-Discord Project (in charge):
-- Administrator for [Chill Vibes](https://dsc.gg/chillvibes-server) (+1700 users);
-- Moderator for [Mappa Discord Italia](https://discord.gg/zRRuJ2E) (+500 users);
-- Informant for [Favij's Sgabuzzino](https://discord.gg/favij) (+15000 users);
+- Animatore per la parrocchia di [San Giuseppe](https://www.arcidiocesi.vc.it/vicarie/vercelli/parrocchia-san-giuseppe/);
+- Concertista dell'edizione 2021 del Corso Internazionale di Musica Antica dell'[Accademia del Ricercare](https://accademiadelricercare.com/);
+- Primo traversiere nel brano "[Grillen-Symphonie by Georg Philipp Telemann](https://youtu.be/PuFJ8VmwsOI)" suonato a Romano Canavese in data 01 agosto 2021;
+- Capo dell'organizzazione digitale [Ch¡ll V¡bes](https://github.com/Chill-Vabes);
+- Amministratore per [Chill Vibes](https://dsc.gg/chillvibes-server) (+1700 users);
+- Moderatore per il server discord [Mappa Discord Italia](https://discord.gg/zRRuJ2E) (+500 users);
+- Informant per il server discord [Favij's Sgabuzzino](https://discord.gg/favij) (+15800 users);
 - Informant for [Lo Stormo di Sbriser](https://discord.gg/sbriser) (+35000 users);
-- Bug Hunter for [Discord](https://discord.gg/discord-testers).
+- Bug Hunter for [Discord](https://discord.gg/discord-testers);
+- - Pluginner for [4Tuna | eSports](https://discord.gg/K2e5fd6Hyn);
+- Moderator for [MineJoJo](https://www.minecraft-italia.it/server/minejojo) (+20 Online);
 
 Discord Projects (finished / left):
 - Ex Owner for ChillWumpsHouse (+1000 users);
@@ -39,10 +37,6 @@ Discord Projects (finished / left):
 - Ex Helper, Moderator, Admin and Administrator for [SpaceHub](https://discord.gg/nN9FW5zhvM);
 - Ex Helper, Moderator, Admin, Administrator and Owner for PokèWorld (+800 users);
 - Ex Helper, Moderator and Staff Manager for EthyriumZone (+400 users).
-
-Minecraf Project (in charge):
-- Pluginner for [4Tuna | eSports]();
-- Moderator for [MineJoJo](https://www.minecraft-italia.it/server/minejojo) (+20 Online);
 
 Minecraf Project (finished / left):
 - Ex Helper, Admin and Owner for KalyNetwork (+25 Online);
