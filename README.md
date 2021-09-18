@@ -54,8 +54,8 @@ Progetti abbandonati, trasferiti o inattivi:
 - [Tea Time Anime BOT](https://discord.com/oauth2/authorize?client_id=715708694855417896&scope=bot%20applications.commands&permissions=2147483647) (+390 servers);
 - [Friday Night Funkin' BOT](https://discord.com/oauth2/authorize?client_id=840217202862325780&scope=bot&permissions=37080640) (+1220 servers);
 - [Toshiiro](https://discord.com/oauth2/authorize?client_id=713844523247075470&scope=bot&permissions=2452750167) (privato);
-- [Harris](https://discord.com/oauth2/authorize?client_id=752502711261462588&scope=bot&permissions=2452750167): (privato);
-- [EvoStack](https://forum.evostack.cloud/public/categories): Forum.
+- [Harris](https://discord.com/oauth2/authorize?client_id=752502711261462588&scope=bot&permissions=2452750167) (privato);
+- [Forum EvoStack](https://forum.evostack.cloud/public/categories).
 
 <h2 align="left">Languages and Tools:</h2>
 
