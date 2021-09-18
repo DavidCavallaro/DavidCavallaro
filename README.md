@@ -1,6 +1,6 @@
-Index: [Biography](https://github.com/DavidCavallaro#biography) | [Hobbies](https://github.com/DavidCavallaro#hobbies) | [Curriculum](https://github.com/DavidCavallaro#curriculum) | [Activity Project](https://github.com/DavidCavallaro#active-projects) | [Languages and Tools](https://github.com/DavidCavallaro#languages-and-tools) |  [Stats](https://github.com/DavidCavallaro#stats) | [Trophies](https://github.com/DavidCavallaro#trophies) | [Contact](https://github.com/DavidCavallaro#contact)
+Index: [Biografia](https://github.com/DavidCavallaro#biography) | [Hobbies](https://github.com/DavidCavallaro#hobbies) | [Curriculum](https://github.com/DavidCavallaro#curriculum) | [Activity Project](https://github.com/DavidCavallaro#active-projects) | [Languages and Tools](https://github.com/DavidCavallaro#languages-and-tools) |  [Stats](https://github.com/DavidCavallaro#stats) | [Trophies](https://github.com/DavidCavallaro#trophies) | [Contact](https://github.com/DavidCavallaro#contact)
 
-### Hi there. I'm Roxy! 👋
+### Ciao! Io sono David ma puoi chiamarmi Roxy! 👋
 <h2 align="left">Informazioni Personali:</h2>
 
 - Nome e Cognome: David Cavallaro;
