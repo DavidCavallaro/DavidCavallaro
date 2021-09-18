@@ -84,4 +84,4 @@ Progetti abbandonati, trasferiti o inattivi:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DavidCavallaro&color=blueviolet) ![Profile Followers](https://img.shields.io/badge/Followers-12-blueviolet) [![Join Now](https://discordapp.com/api/guilds/503190685118103574/widget.png)](https://dsc.gg/chillvabes) ![Profile Following](https://img.shields.io/badge/Following-7-blueviolet) ![Profile Stars](https://img.shields.io/badge/Stars-17-blueviolet)
 
-[![Discord](https://media.discordapp.net/attachments/729702025830465579/860263727563669524/unknown.png)](dsc.gg/chillvibes-server)
+[![Discord](https://i.imgur.com/Fh5NVX3.gif)](dsc.gg/chillvibes-server)
