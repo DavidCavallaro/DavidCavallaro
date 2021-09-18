@@ -20,35 +20,33 @@ Progetti attivi:
 - Concertista dell'edizione 2021 del Corso Internazionale di Musica Antica dell'[Accademia del Ricercare](https://accademiadelricercare.com/);
 - Primo traversiere nel brano "[Grillen-Symphonie by Georg Philipp Telemann](https://youtu.be/PuFJ8VmwsOI)" suonato a Romano Canavese in data 01 agosto 2021;
 - Capo dell'organizzazione digitale [Ch¡ll V¡bes](https://github.com/Chill-Vabes);
-- Amministratore per [Chill Vibes](https://dsc.gg/chillvibes-server) (+1700 users);
-- Moderatore per il server discord [Mappa Discord Italia](https://discord.gg/zRRuJ2E) (+500 users);
-- Informant per il server discord [Favij's Sgabuzzino](https://discord.gg/favij) (+15800 users);
-- Informant for [Lo Stormo di Sbriser](https://discord.gg/sbriser) (+35000 users);
-- Bug Hunter for [Discord](https://discord.gg/discord-testers);
-- - Pluginner for [4Tuna | eSports](https://discord.gg/K2e5fd6Hyn);
-- Moderator for [MineJoJo](https://www.minecraft-italia.it/server/minejojo) (+20 Online);
+- Amministratore per il server Discord [Chill Vibes](https://dsc.gg/chillvibes-server) (+1700 users);
+- Moderatore per il server Discord [Mappa Discord Italia](https://discord.gg/zRRuJ2E) (+500 users);
+- Helper per il server Discord [4Tuna | eSports](https://discord.gg/K2e5fd6Hyn);
+- Informatore per il server Discord [Favij's Sgabuzzino](https://discord.gg/favij) (+15800 users);
+- Informatore per il server Discord [Lo Stormo di Sbriser](https://discord.gg/sbriser) (+34000 users);
+- Bug Hunter per [Discord](https://discord.gg/discord-testers);
+- Pluginner per il server Discord [4Tuna | eSports](https://discord.gg/K2e5fd6Hyn);
+- Moderator per il server Minecraft [MineJoJo](https://www.minecraft-italia.it/server/minejojo) (+20 Online);
 
-Discord Projects (finished / left):
-- Ex Owner for ChillWumpsHouse (+1000 users);
-- Ex Administrator for GamingCommunityItalian (+900 users) [left for: inactivity];
-- Ex Executive Admin for [TheZoo Community](https://discord.gg/c2mkpPAw8J) (+12000 users);
-- Ex Moderator for [InfinityBotList](https://botlist.site) | [GitHub](https://github.com/InfinityBotList);
-- Ex Developer for [KuraiK](https://discord.gg/PW4MAvhMRe) (+1300 users);
-- Ex Helper, Moderator, Admin and Administrator for [SpaceHub](https://discord.gg/nN9FW5zhvM);
-- Ex Helper, Moderator, Admin, Administrator and Owner for PokèWorld (+800 users);
-- Ex Helper, Moderator and Staff Manager for EthyriumZone (+400 users).
+Progetti abbandonati, trasferiti o inattivi:
 
-Minecraf Project (finished / left):
-- Ex Helper, Admin and Owner for KalyNetwork (+25 Online);
-- Ex Developer and Owner for SkyFire;
-- Ex Admin for [ImperialCraft](https://www.minecraft-italia.it/server/imperialcraft) (+50 Online);
-- Ex ChatMod for [RubyCraft](https://www.minecraft-italia.it/server/rubycraft) (+30 Online).
-
-Twitch Project (finished / left):
-- Ex Moderator for [psycocat_](https://www.twitch.tv/psycocat_);
-- Ex Moderator for [Gayasai](https://www.twitch.tv/gayasai);
-- Ex Moderator for [XpazzoX](https://www.twitch.tv/xpazzox_official);
-- Ex Moderator for [Ald01ne](https://www.twitch.tv/ald01ne).
+- Owner per il server Discord ChillWumpsHouse (+1000 users);
+- Owner per il server Discord GamingCommunityItalian (+900 users);
+- Executive Admin per il server Discord [TheZoo Community](https://discord.gg/c2mkpPAw8J) (+12700 users);
+- Moderatore per la lista per Bot di Discord [InfinityBotList](https://botlist.site) | [GitHub](https://github.com/InfinityBotList);
+- Developer per il server Discord [KuraiK](https://discord.gg/PW4MAvhMRe) (+1300 users);
+- Helper, Moderatore, Admin e Amministratore per il server Discord [SpaceHub](https://discord.gg/nN9FW5zhvM);
+- Helper, Moderatore, Admin, Amministratore e Owner per PokèWorld (+800 users);
+- Helper, Moderatore e Staff Manager per il server Discord EthyriumZone (+400 users);
+- Helper, Admin and Owner per il server Minecraft KalyNetwork (+25 Online);
+- Developer e Owner per il server Minecraft SkyFire;
+- Admin per il server Minecraft [ImperialCraft](https://www.minecraft-italia.it/server/imperialcraft) (+50 Online);
+- ChatMod per il server Minecraft [RubyCraft](https://www.minecraft-italia.it/server/rubycraft) (+30 Online);
+- Moderatore per il canale Twitch di [psycocat_](https://www.twitch.tv/psycocat_);
+- Moderatore per il canale Twitch di [Gayasai](https://www.twitch.tv/gayasai);
+- Moderatore per il canale Twitch di [XpazzoX](https://www.twitch.tv/xpazzox_official);
+- Moderatore per il canale Twitch di [Ald01ne](https://www.twitch.tv/ald01ne).
 
 <h2 align="left">Active Projects:</h2>
 
