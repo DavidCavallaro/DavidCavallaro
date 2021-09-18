@@ -37,14 +37,13 @@ Discord Project (in charge):
 - Informant for [Lo Stormo di Sbriser](https://discord.gg/sbriser) (+35000 users);
 - Bug Hunter for [Discord](https://discord.gg/discord-testers).
 
-Discord Projects Left:
-- Ex Owner for [Chill Vibes](https://dsc.gg/chillvibes-server) (+1700 users);
-- Ex Owner for ChillWumpsHouse (+1000 users) [left for: inactivity];
+Discord Projects (finished / left):
+- Ex Owner for ChillWumpsHouse (+1000 users);
 - Ex Administrator for GamingCommunityItalian (+900 users) [left for: inactivity];
-- Ex Executive Admin for [TheZoo Community](https://discord.gg/c2mkpPAw8J) (+12000 users) [left for: lack of professionalism of the Staff];
-- Ex Moderator for [InfinityBotList](https://botlist.site) | [GitHub](https://github.com/InfinityBotList) [left for: lack of professionalism of the Staff Managers];
-- Ex Developer for [KuraiK](https://discord.gg/PW4MAvhMRe) (+1300 users) [left for: lack of professionalism of the Staff];
-- Ex Helper, Moderator, Admin and Administrator for [SpaceHub](https://discord.gg/nN9FW5zhvM) [left for: lack of professionalism of the Owner];
+- Ex Executive Admin for [TheZoo Community](https://discord.gg/c2mkpPAw8J) (+12000 users);
+- Ex Moderator for [InfinityBotList](https://botlist.site) | [GitHub](https://github.com/InfinityBotList);
+- Ex Developer for [KuraiK](https://discord.gg/PW4MAvhMRe) (+1300 users);
+- Ex Helper, Moderator, Admin and Administrator for [SpaceHub](https://discord.gg/nN9FW5zhvM);
 - Ex Helper, Moderator, Admin, Administrator and Owner for PokèWorld (+800 users);
 - Ex Helper, Moderator and Staff Manager for EthyriumZone (+400 users).
 
