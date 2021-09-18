@@ -1,4 +1,4 @@
-Index: [Biografia](https://github.com/DavidCavallaro#biography) | [Hobbies](https://github.com/DavidCavallaro#hobbies) | [Curriculum](https://github.com/DavidCavallaro#curriculum) | [Activity Project](https://github.com/DavidCavallaro#active-projects) | [Languages and Tools](https://github.com/DavidCavallaro#languages-and-tools) |  [Stats](https://github.com/DavidCavallaro#stats) | [Trophies](https://github.com/DavidCavallaro#trophies) | [Contact](https://github.com/DavidCavallaro#contact)
+Index: [Biografia](https://github.com/DavidCavallaro/DavidCavallaro/blob/main/README.md#informazioni-personali) | [Curriculum](https://github.com/DavidCavallaro#curriculum) | [Activity Project](https://github.com/DavidCavallaro/DavidCavallaro/blob/main/README.md#altri-progetti) | [Languages and Tools](https://github.com/DavidCavallaro#linguaggi-e-strumenti-che-utilizzo) |  [Stats](https://github.com/DavidCavallaro#statistiche) | [Trophies](https://github.com/DavidCavallaro#trophies) | [Contatti](https://github.com/DavidCavallaro#contact)
 
 ### Ciao! Io sono David ma puoi chiamarmi Roxy! 👋
 <h2 align="left">Informazioni Personali:</h2>
@@ -57,7 +57,7 @@ Progetti abbandonati, trasferiti o inattivi:
 - [Harris](https://discord.com/oauth2/authorize?client_id=752502711261462588&scope=bot&permissions=2452750167) (privato);
 - [Forum EvoStack](https://forum.evostack.cloud/public/categories).
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Linguaggi e Strumenti che utilizzo:</h2>
 
 - <a href="https://canvasjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> CSS;
 - <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> EXPRESS.JS;
@@ -67,18 +67,18 @@ Progetti abbandonati, trasferiti o inattivi:
 - <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> NODE.JS.
 
 
-<h2 align="left">Stats:</h2>
+<h2 align="left">Statistiche:</h2>
 
 ![GitHub](https://github-readme-stats.vercel.app/api?username=DavidCavallaro&count_private=true&show_icons=true&theme=radical) 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidCavallaro&show_icons=true&theme=radical)
 
-<h2 align="left">Trophies:</h2>
+<h2 align="left">Trofei:</h2>
 
 <img src="https://github-profile-trophy.vercel.app/?username=DavidCavallaro&theme=dracula">
 
-<h2 align="left">Contact:</h2>
+<h2 align="left">Contatti:</h2>
 
-- Discord: Roxy#3885;
+- Discord: @[4T] Roxy#3885;
 - Telegram: [@RoxyDiscord](https://t.me/RoxyDiscord);
 - GitHub: [DavidCavallaro](https://github.com/DavidCavallaro).
 
