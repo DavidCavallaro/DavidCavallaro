@@ -30,7 +30,7 @@ Online Projects List.
 Organization:
 - [Chill Vibes](https://github.com/Chill-Vabes).
 
-Discord Project:
+Discord Project (in charge):
 - Administrator for [Chill Vibes](https://dsc.gg/chillvibes-server) (+1700 users);
 - Moderator for [Mappa Discord Italia](https://discord.gg/zRRuJ2E) (+500 users);
 - Informant for [Favij's Sgabuzzino](https://discord.gg/favij) (+15000 users);
@@ -48,20 +48,21 @@ Discord Projects Left:
 - Ex Helper, Moderator, Admin, Administrator and Owner for PokèWorld (+800 users);
 - Ex Helper, Moderator and Staff Manager for EthyriumZone (+400 users).
 
-Minecraf Project:
+Minecraf Project (in charge):
+- Pluginner for [4Tuna | eSports]();
 - Moderator for [MineJoJo](https://www.minecraft-italia.it/server/minejojo) (+20 Online);
 
-Minecraf Project Left:
-- Ex Helper, Admin and Owner for KalyNetwork (+25 Online) [left for: closed];
-- Ex Developer and Owner for SkyFire [left for: lack of professionalism of the Owner];
-- Ex Admin for [ImperialCraft](https://www.minecraft-italia.it/server/imperialcraft) (+50 Online) [left for: lack of professionalism of the Owner and Administrator];
-- Ex ChatMod for [RubyCraft](https://www.minecraft-italia.it/server/rubycraft) (+30 Online) [left for: lack of professionalism of the Staff].
+Minecraf Project (finished / left):
+- Ex Helper, Admin and Owner for KalyNetwork (+25 Online);
+- Ex Developer and Owner for SkyFire;
+- Ex Admin for [ImperialCraft](https://www.minecraft-italia.it/server/imperialcraft) (+50 Online);
+- Ex ChatMod for [RubyCraft](https://www.minecraft-italia.it/server/rubycraft) (+30 Online).
 
-Twitch Project:
-- Ex Moderator for [psycocat_](https://www.twitch.tv/psycocat_) [left for: inactivity of the channel];
-- Ex Moderator for [Gayasai](https://www.twitch.tv/gayasai) [left for: inactivity of the channel];
-- Ex Moderator for [XpazzoX](https://www.twitch.tv/xpazzox_official) [left for: inactivity of the channel];
-- Ex Moderator for [Ald01ne](https://www.twitch.tv/ald01ne) [left for: inactivity of the channel].
+Twitch Project (finished / left):
+- Ex Moderator for [psycocat_](https://www.twitch.tv/psycocat_);
+- Ex Moderator for [Gayasai](https://www.twitch.tv/gayasai);
+- Ex Moderator for [XpazzoX](https://www.twitch.tv/xpazzox_official);
+- Ex Moderator for [Ald01ne](https://www.twitch.tv/ald01ne).
 
 <h2 align="left">Active Projects:</h2>
 
