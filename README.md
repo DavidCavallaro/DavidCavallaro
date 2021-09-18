@@ -27,7 +27,7 @@ Progetti attivi:
 - Informatore per il server Discord [Lo Stormo di Sbriser](https://discord.gg/sbriser) (+34000 membri);
 - Bug Hunter per [Discord](https://discord.gg/discord-testers);
 - Pluginner per il server Discord [4Tuna | eSports](https://discord.gg/K2e5fd6Hyn);
-- Moderator per il server Minecraft [MineJoJo](https://www.minecraft-italia.it/server/minejojo) (+20 player online);
+- Moderator per il server Minecraft [MineJoJo](https://www.minecraft-italia.it/server/minejojo) (+20 player online).
 
 Progetti abbandonati, trasferiti o inattivi:
 
