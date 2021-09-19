@@ -82,6 +82,6 @@ Progetti abbandonati, trasferiti o inattivi:
 - Telegram: [@RoxyDiscord](https://t.me/RoxyDiscord);
 - GitHub: [DavidCavallaro](https://github.com/DavidCavallaro).
 
-![Profile Views](https://komarev.com/ghpvc/?username=DavidCavallaro&color=blueviolet) ![Profile Followers](https://img.shields.io/badge/Followers-12-blueviolet) [![Join Now](https://discordapp.com/api/guilds/503190685118103574/widget.png)](https://dsc.gg/chillvabes) ![Profile Following](https://img.shields.io/badge/Following-7-blueviolet) ![Profile Stars](https://img.shields.io/badge/Stars-17-blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=DavidCavallaro&color=blueviolet) ![Profile Followers](https://img.shields.io/badge/Followers-12-blueviolet) [![Join Now](https://discordapp.com/api/guilds/503190685118103574/widget.png)](https://dsc.gg/chillvabes) ![Profile Following](https://img.shields.io/badge/Following-8-blueviolet) ![Profile Stars](https://img.shields.io/badge/Stars-15-blueviolet)
 
 [![Discord](https://i.imgur.com/Fh5NVX3.gif)](dsc.gg/chillvibes-server)
