@@ -14,20 +14,25 @@ Indice: [Informazioni Personali](https://github.com/DavidCavallaro#informazioni-
 
 Progetti attivi:
 
-- Collaboratore per la stagione concertistica del [Viotti Festival](http://www.viottifestival.it/_dynapage/index_Home.asp?pageId=78&primopiano=1);
+- Collaboratore per la stagione concertistica [Viotti Festival](http://www.viottifestival.it/_dynapage/index_Home.asp?pageId=78&primopiano=1);
 - Animatore per la parrocchia di [Santa Maria Maddalena](https://www.arcidiocesi.vc.it/vicarie/vercelli/parrocchia-santa-maria-maddalena/);
 - Animatore per la parrocchia di [San Giuseppe](https://www.arcidiocesi.vc.it/vicarie/vercelli/parrocchia-san-giuseppe/);
 - Concertista dell'edizione 2021 del Corso Internazionale di Musica Antica dell'[Accademia del Ricercare](https://accademiadelricercare.com/);
 - Primo traversiere nel brano "[Grillen-Symphonie by Georg Philipp Telemann](https://youtu.be/PuFJ8VmwsOI)" suonato a Romano Canavese in data 01 agosto 2021;
 - Capo dell'organizzazione digitale [Ch¡ll V¡bes](https://github.com/Chill-Vabes);
 - Amministratore per il server Discord [Chill Vibes](https://dsc.gg/chillvibes-server) (+1700 membri);
+- Admin per la lista Bot Discord [Cybotlist](https://cybotslist.tk/);
 - Moderatore per il server Discord [Mappa Discord Italia](https://discord.gg/zRRuJ2E) (+500 membri);
-- Helper per il server Discord [4Tuna | eSports](https://discord.gg/K2e5fd6Hyn);
 - Informatore per il server Discord [Favij's Sgabuzzino](https://discord.gg/favij) (+15800 membri);
 - Informatore per il server Discord [Lo Stormo di Sbriser](https://discord.gg/sbriser) (+34000 membri);
-- Bug Hunter per [Discord](https://discord.gg/discord-testers);
-- Pluginner per il server Discord [4Tuna | eSports](https://discord.gg/K2e5fd6Hyn);
-- Moderator per il server Minecraft [MineJoJo](https://www.minecraft-italia.it/server/minejojo) (+20 player online).
+- Ricercatore di Bug per [Discord](https://discord.gg/discord-testers)(Bug Segnalati: 3 | Bug Approvati: 2);
+- Moderatore per il server Minecraft [MineJoJo](https://www.minecraft-italia.it/server/minejojo) (+20 player online);
+- Creatore del Bot [Wumps](https://discord.com/oauth2/authorize?client_id=729701120854982706&scope=bot&permissions=2452750167) (+500 server) di Discord;
+- Proprietario del Bot [Tea Time Anime BOT](https://discord.com/oauth2/authorize?client_id=715708694855417896&scope=bot%20applications.commands&permissions=2147483647) (+390 server) di Discord;
+- Proprietario del Bot [Friday Night Funkin' BOT](https://discord.com/oauth2/authorize?client_id=840217202862325780&scope=bot&permissions=37080640) (+1500 server) di Discord;
+- Creatore del Bot [Toshiiro](https://discord.com/oauth2/authorize?client_id=713844523247075470&scope=bot&permissions=2452750167) (privato) di Discord;
+- Creatore del Bot [Harris](https://discord.com/oauth2/authorize?client_id=752502711261462588&scope=bot&permissions=2452750167) (privato) di Discord;
+- Creatore e proprietario del [Forum EvoStack](https://forum.evostack.cloud/public/categories).
 
 Progetti abbandonati, trasferiti o inattivi:
 
@@ -36,11 +41,13 @@ Progetti abbandonati, trasferiti o inattivi:
 - Executive Admin per il server Discord [TheZoo Community](https://discord.gg/c2mkpPAw8J) (+12700 membri);
 - Moderatore per la lista per Bot di Discord [InfinityBotList](https://botlist.site) | [GitHub](https://github.com/InfinityBotList);
 - Developer per il server Discord [KuraiK](https://discord.gg/PW4MAvhMRe) (+1300 membri);
+- Helper per il server Discord [4Tuna | eSports](https://discord.gg/K2e5fd6Hyn);
 - Helper, Moderatore, Admin e Amministratore per il server Discord [SpaceHub](https://discord.gg/nN9FW5zhvM) (+5000 membri);
 - Helper, Moderatore, Admin, Amministratore e Owner per PokèWorld (+800 membri);
 - Helper, Moderatore e Staff Manager per il server Discord EthyriumZone (+400 membri);
 - Helper, Admin and Owner per il server Minecraft KalyNetwork (+25 player online);
 - Developer e Owner per il server Minecraft SkyFire;
+- Pluginner per il server Discord [4Tuna | eSports](https://discord.gg/K2e5fd6Hyn);
 - Admin per il server Minecraft [ImperialCraft](https://www.minecraft-italia.it/server/imperialcraft) (+50 player online);
 - ChatMod per il server Minecraft [RubyCraft](https://www.minecraft-italia.it/server/rubycraft) (+30 player online);
 - Moderatore per il canale Twitch di [psycocat_](https://www.twitch.tv/psycocat_);
@@ -48,7 +55,7 @@ Progetti abbandonati, trasferiti o inattivi:
 - Moderatore per il canale Twitch di [XpazzoX](https://www.twitch.tv/xpazzox_official);
 - Moderatore per il canale Twitch di [Ald01ne](https://www.twitch.tv/ald01ne).
 
-<h2 align="left">Altri progetti:</h2>
+<h2 align="left">Link Utili:</h2>
 
 - [Wumps](https://discord.com/oauth2/authorize?client_id=729701120854982706&scope=bot&permissions=2452750167) (+500 servers);
 - [Tea Time Anime BOT](https://discord.com/oauth2/authorize?client_id=715708694855417896&scope=bot%20applications.commands&permissions=2147483647) (+390 servers);
