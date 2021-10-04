@@ -62,7 +62,7 @@ Progetti abbandonati, trasferiti o inattivi:
 - [Friday Night Funkin' BOT](https://discord.com/oauth2/authorize?client_id=840217202862325780&scope=bot&permissions=37080640) (+1480 servers);
 - [Toshiiro](https://discord.com/oauth2/authorize?client_id=713844523247075470&scope=bot&permissions=2452750167) (privato);
 - [Harris](https://discord.com/oauth2/authorize?client_id=752502711261462588&scope=bot&permissions=2452750167) (privato);
-- [Forum EvoStack](https://forum.evostack.cloud/public/categories).
+- [Forum EvoStack](https://forum.evostack.cloud/public/categories) (chiuso).
 
 <h2 align="left">Linguaggi e Strumenti che utilizzo:</h2>
 
@@ -91,4 +91,4 @@ Progetti abbandonati, trasferiti o inattivi:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DavidCavallaro&color=blueviolet) | ![Profile Followers](https://img.shields.io/badge/Followers-11-blueviolet) | ![Profile Following](https://img.shields.io/badge/Following-8-blueviolet) | ![Profile Stars](https://img.shields.io/badge/Stars-18-blueviolet) | [![Join Now](https://discordapp.com/api/guilds/503190685118103574/widget.png)](https://discord.gg/jxh2qxu)
 
-[![Discord](https://i.imgur.com/Fh5NVX3.gif)](dsc.gg/chillvibes-server)
+[![Discord](https://i.imgur.com/Fh5NVX3.gif)](https://discord.gg/jxh2qxu)
