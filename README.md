@@ -31,13 +31,13 @@ Progetti attivi:
 - Proprietario del Bot [Tea Time Anime BOT](https://discord.com/oauth2/authorize?client_id=715708694855417896&scope=bot%20applications.commands&permissions=2147483647) (+390 server) di Discord;
 - Proprietario del Bot [Friday Night Funkin' BOT](https://discord.com/oauth2/authorize?client_id=840217202862325780&scope=bot&permissions=37080640) (+1500 server) di Discord;
 - Creatore del Bot [Toshiiro](https://discord.com/oauth2/authorize?client_id=713844523247075470&scope=bot&permissions=2452750167) (privato) di Discord;
-- Creatore del Bot [Harris](https://discord.com/oauth2/authorize?client_id=752502711261462588&scope=bot&permissions=2452750167) (privato) di Discord;
-- Creatore e proprietario del [Forum EvoStack](https://forum.evostack.cloud/public/categories).
+- Creatore del Bot [Harris](https://discord.com/oauth2/authorize?client_id=752502711261462588&scope=bot&permissions=2452750167) (privato) di Discord.
 
 Progetti abbandonati, trasferiti o inattivi:
 
 - Owner per il server Discord ChillWumpsHouse (+1000 membri);
 - Owner per il server Discord GamingCommunityItalian (+900 membri);
+- Creatore e proprietario del [Forum EvoStack](https://forum.evostack.cloud/public/categories);
 - Executive Admin per il server Discord [TheZoo Community](https://discord.gg/c2mkpPAw8J) (+12700 membri);
 - Moderatore per la lista per Bot di Discord [InfinityBotList](https://botlist.site) | [GitHub](https://github.com/InfinityBotList);
 - Developer per il server Discord [KuraiK](https://discord.gg/PW4MAvhMRe) (+1300 membri);
