@@ -85,7 +85,7 @@ Progetti abbandonati, trasferiti o inattivi:
 
 <h2 align="left">Contatti:</h2>
 
-- Discord: @[4T] Roxy#3885;
+- Discord: @Kyoko#3885;
 - Telegram: [@RoxyDiscord](https://t.me/RoxyDiscord);
 - GitHub: [DavidCavallaro](https://github.com/DavidCavallaro).
 
