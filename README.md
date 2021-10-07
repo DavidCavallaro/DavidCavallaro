@@ -4,7 +4,7 @@ Indice: [Informazioni Personali](https://github.com/DavidCavallaro#informazioni-
 <h2 align="left">Informazioni Personali:</h2>
 
 - Nome e Cognome: David Cavallaro;
-- Età: 17;
+- Età: 18;
 - Compleanno: 27 settembre;
 - Nato a: Piemonte, Italia;
 - Residente a: Piemonte, Italia;
