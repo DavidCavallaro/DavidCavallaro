@@ -40,7 +40,7 @@ Progetti abbandonati, trasferiti o inattivi:
 - Executive Admin per il server Discord [TheZoo Community](https://discord.gg/c2mkpPAw8J) (+12700 membri);
 - Moderatore per la lista per Bot di Discord [InfinityBotList](https://botlist.site) | [GitHub](https://github.com/InfinityBotList);
 - Developer per il server Discord [KuraiK](https://discord.gg/PW4MAvhMRe) (+1300 membri);
-- Helper per il server Discord [4Tuna | eSports](https://discord.gg/K2e5fd6Hyn);
+- Helper per il server Discord [4Tuna | eSports](https://discord.gg/K2e5fd6Hyn) (+1700 membri);
 - Helper, Moderatore, Admin e Amministratore per il server Discord [SpaceHub](https://discord.gg/nN9FW5zhvM) (+5000 membri);
 - Helper, Moderatore, Admin, Amministratore e Owner per PokèWorld (+800 membri);
 - Helper, Moderatore e Staff Manager per il server Discord EthyriumZone (+400 membri);
