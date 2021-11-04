@@ -26,7 +26,6 @@ Progetti attivi:
 - Informatore per il server Discord [Favij's Sgabuzzino](https://discord.gg/favij) (+15800 membri);
 - Informatore per il server Discord [Lo Stormo di Sbriser](https://discord.gg/sbriser) (+34000 membri);
 - Ricercatore di Bug per [Discord](https://discord.gg/discord-testers)(Bug Segnalati: 3 | Bug Approvati: 2);
-- Moderatore per il server Minecraft [MineJoJo](https://www.minecraft-italia.it/server/minejojo) (+20 player online);
 - Creatore del Bot [Wumps](https://discord.com/oauth2/authorize?client_id=729701120854982706&scope=bot&permissions=2452750167) (+500 server) di Discord;
 - Proprietario del Bot [Tea Time Anime BOT](https://discord.com/oauth2/authorize?client_id=715708694855417896&scope=bot%20applications.commands&permissions=2147483647) (+390 server) di Discord;
 - Proprietario del Bot [Friday Night Funkin' BOT](https://discord.com/oauth2/authorize?client_id=840217202862325780&scope=bot&permissions=37080640) (+1500 server) di Discord;
@@ -49,7 +48,8 @@ Progetti abbandonati, trasferiti o inattivi:
 - Developer e Owner per il server Minecraft SkyFire;
 - Pluginner per il server Discord [4Tuna | eSports](https://discord.gg/K2e5fd6Hyn);
 - Admin per il server Minecraft [ImperialCraft](https://www.minecraft-italia.it/server/imperialcraft) (+50 player online);
-- ChatMod per il server Minecraft [RubyCraft](https://www.minecraft-italia.it/server/rubycraft) (+30 player online);
+- Moderatore per il server Minecraft [MineJoJo](https://www.minecraft-italia.it/server/minejojo) (+10 player online);
+- ChatMod per il server Minecraft [RubyCraft](https://www.minecraft-italia.it/server/rubycraft) (+40 player online);
 - Moderatore per il canale Twitch di [psycocat_](https://www.twitch.tv/psycocat_);
 - Moderatore per il canale Twitch di [Gayasai](https://www.twitch.tv/gayasai);
 - Moderatore per il canale Twitch di [XpazzoX](https://www.twitch.tv/xpazzox_official);
