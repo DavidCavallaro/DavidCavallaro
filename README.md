@@ -46,7 +46,7 @@ Progetti abbandonati, trasferiti o inattivi:
 - Helper, Moderatore e Staff Manager per il server Discord EthyriumZone (+400 membri);
 - Helper, Admin and Owner per il server Minecraft KalyNetwork (+25 player online);
 - Developer e Owner per il server Minecraft SkyFire;
-- Pluginner per il server Discord [4Tuna | eSports](https://discord.gg/K2e5fd6Hyn);
+- Pluginner per il server Discord [4Tuna | eSports](https://discord.gg/K2e5fd6Hyn) (+1700 membri);
 - Admin per il server Minecraft [ImperialCraft](https://www.minecraft-italia.it/server/imperialcraft) (+50 player online);
 - Moderatore per il server Minecraft [MineJoJo](https://www.minecraft-italia.it/server/minejojo) (+10 player online);
 - ChatMod per il server Minecraft [RubyCraft](https://www.minecraft-italia.it/server/rubycraft) (+40 player online);
