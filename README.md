@@ -3,20 +3,20 @@ Indice: [Informazioni Personali](https://github.com/DavidCavallaro#informazioni-
 ### Ciao! Io sono David ma puoi chiamarmi Kyoko! 👋
 <h2 align="left">Informazioni Personali:</h2>
 
-- Nome e Cognome: David Cavallaro;
-- Età: 18;
-- Compleanno: 27 settembre;
-- Nato a: Piemonte, Italia;
-- Residente a: Piemonte, Italia;
-- Scuola frequentante: Liceo Musicale e Coreutico.
+- Name and surname: David Cavallaro;
+- Age: 18;
+- Birthday: 27 settembre;
+- Born in: Piemonte, Italia;
+- Resident in: Piemonte, Italia;
+- Attending school: High School of Music and Choreutics.
 
 <h2 align="left">Curriculum:</h2>
 
 Progetti attivi:
 
-- Collaboratore per la stagione concertistica [Viotti Festival](http://www.viottifestival.it/_dynapage/index_Home.asp?pageId=78&primopiano=1);
-- Animatore per la parrocchia di [Santa Maria Maddalena](https://www.arcidiocesi.vc.it/vicarie/vercelli/parrocchia-santa-maria-maddalena/);
-- Animatore per la parrocchia di [San Giuseppe](https://www.arcidiocesi.vc.it/vicarie/vercelli/parrocchia-san-giuseppe/);
+- Collaborator for the [Viotti Festival](http://www.viottifestival.it/_dynapage/index_Home.asp?pageId=78&primopiano=1) concert season;
+- Animator for the parish of [Santa Maria Maddalena](https://www.arcidiocesi.vc.it/vicarie/vercelli/parrocchia-santa-maria-maddalena/);
+- Animator for the parish of [San Giuseppe](https://www.arcidiocesi.vc.it/vicarie/vercelli/parrocchia-san-giuseppe/);
 - Concertista dell'edizione 2021 del Corso Internazionale di Musica Antica dell'[Accademia del Ricercare](https://accademiadelricercare.com/);
 - Primo traversiere nel brano "[Grillen-Symphonie by Georg Philipp Telemann](https://youtu.be/PuFJ8VmwsOI)" suonato a Romano Canavese in data 01 agosto 2021;
 - Capo dell'organizzazione digitale [Ch¡ll V¡bes](https://github.com/Chill-Vabes);
