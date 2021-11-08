@@ -1,7 +1,7 @@
-Indice: [Informazioni Personali](https://github.com/DavidCavallaro#informazioni-personali) | [Curriculum](https://github.com/DavidCavallaro#curriculum) | [Altri Progetti](https://github.com/DavidCavallaro#altri-progetti) | [Linguaggi e Strumenti che utilizzo](https://github.com/DavidCavallaro#linguaggi-e-strumenti-che-utilizzo) |  [Statistiche](https://github.com/DavidCavallaro#statistiche) | [Trofei](https://github.com/DavidCavallaro#trofei) | [Contatti](https://github.com/DavidCavallaro#contact)
+Indice: [Personal informations](https://github.com/DavidCavallaro#personal-informations) | [Curriculum](https://github.com/DavidCavallaro#curriculum) | [Altri Progetti](https://github.com/DavidCavallaro#altri-progetti) | [Linguaggi e Strumenti che utilizzo](https://github.com/DavidCavallaro#linguaggi-e-strumenti-che-utilizzo) |  [Statistiche](https://github.com/DavidCavallaro#statistiche) | [Trofei](https://github.com/DavidCavallaro#trofei) | [Contatti](https://github.com/DavidCavallaro#contact)
 
-### Ciao! Io sono David ma puoi chiamarmi Kyoko! 👋
-<h2 align="left">Informazioni Personali:</h2>
+### Hello! I'm David but you can call me Kyoko 👋
+<h2 align="left">Personal informations:</h2>
 
 - Name and surname: David Cavallaro;
 - Age: 18;
@@ -12,25 +12,25 @@ Indice: [Informazioni Personali](https://github.com/DavidCavallaro#informazioni-
 
 <h2 align="left">Curriculum:</h2>
 
-Progetti attivi:
+Active projects:
 
 - Collaborator for the [Viotti Festival](http://www.viottifestival.it/_dynapage/index_Home.asp?pageId=78&primopiano=1) concert season;
 - Animator for the parish of [Santa Maria Maddalena](https://www.arcidiocesi.vc.it/vicarie/vercelli/parrocchia-santa-maria-maddalena/);
 - Animator for the parish of [San Giuseppe](https://www.arcidiocesi.vc.it/vicarie/vercelli/parrocchia-san-giuseppe/);
-- Concertista dell'edizione 2021 del Corso Internazionale di Musica Antica dell'[Accademia del Ricercare](https://accademiadelricercare.com/);
-- Primo traversiere nel brano "[Grillen-Symphonie by Georg Philipp Telemann](https://youtu.be/PuFJ8VmwsOI)" suonato a Romano Canavese in data 01 agosto 2021;
-- Capo dell'organizzazione digitale [Ch¡ll V¡bes](https://github.com/Chill-Vabes);
-- Amministratore per il server Discord [Chill Vibes](https://dsc.gg/chillvibes-server) (+1700 membri);
-- Admin per la lista Bot Discord [Cybotlist](https://cybotslist.tk/);
-- Moderatore per il server Discord [Mappa Discord Italia](https://discord.gg/zRRuJ2E) (+500 membri);
-- Informatore per il server Discord [Favij's Sgabuzzino](https://discord.gg/favij) (+15800 membri);
-- Informatore per il server Discord [Lo Stormo di Sbriser](https://discord.gg/sbriser) (+34000 membri);
-- Ricercatore di Bug per [Discord](https://discord.gg/discord-testers)(Bug Segnalati: 3 | Bug Approvati: 2);
-- Creatore del Bot [Wumps](https://discord.com/oauth2/authorize?client_id=729701120854982706&scope=bot&permissions=2452750167) (+500 server) di Discord;
-- Proprietario del Bot [Tea Time Anime BOT](https://discord.com/oauth2/authorize?client_id=715708694855417896&scope=bot%20applications.commands&permissions=2147483647) (+390 server) di Discord;
-- Proprietario del Bot [Friday Night Funkin' BOT](https://discord.com/oauth2/authorize?client_id=840217202862325780&scope=bot&permissions=37080640) (+1500 server) di Discord;
-- Creatore del Bot [Toshiiro](https://discord.com/oauth2/authorize?client_id=713844523247075470&scope=bot&permissions=2452750167) (privato) di Discord;
-- Creatore del Bot [Harris](https://discord.com/oauth2/authorize?client_id=752502711261462588&scope=bot&permissions=2452750167) (privato) di Discord.
+- Concert performer of the 2021 edition of the International Early Music Course of the [Accademia del Ricercare](https://accademiadelricercare.com/);
+- First traversiere in the piece "[Grillen-Symphonie by Georg Philipp Telemann](https://youtu.be/PuFJ8VmwsOI)" played in Romano Canavese on 01 August 2021;
+- Head of the digital organization [Ch¡ll V¡bes](https://github.com/Chill-Vabes);
+- Administrator for the Discord server [Chill Vibes](https://dsc.gg/chillvibes-server) (+1700 membri);
+- Admin for the Bot Discord [Cybotlist](https://cybotslist.tk/);
+- Moderator for Discord server [Mappa Discord Italia](https://discord.gg/zRRuJ2E) (+500 membri);
+- Informant for the Discord server [Favij's Sgabuzzino](https://discord.gg/favij) (+15800 membri);
+- Informant for the Discord server [Lo Stormo di Sbriser](https://discord.gg/sbriser) (+34000 membri);
+- Bug Researcher for [Discord](https://discord.gg/discord-testers)(Bug Segnalati: 3 | Bug Approvati: 2);
+- Creator of the Bot [Wumps](https://discord.com/oauth2/authorize?client_id=729701120854982706&scope=bot&permissions=2452750167) (+500 server) di Discord;
+- Owner of the [Tea Time Anime BOT](https://discord.com/oauth2/authorize?client_id=715708694855417896&scope=bot%20applications.commands&permissions=2147483647) (+390 server) di Discord;
+- Owner of the [Friday Night Funkin' BOT](https://discord.com/oauth2/authorize?client_id=840217202862325780&scope=bot&permissions=37080640) (+1640 server) di Discord;
+- Creator of the Bot [Toshiiro](https://discord.com/oauth2/authorize?client_id=713844523247075470&scope=bot&permissions=2452750167) (privato) di Discord;
+- Creator of the Bot [Harris](https://discord.com/oauth2/authorize?client_id=752502711261462588&scope=bot&permissions=2452750167) (privato) di Discord.
 
 Progetti abbandonati, trasferiti o inattivi:
 
