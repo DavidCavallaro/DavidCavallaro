@@ -1,4 +1,4 @@
-Indice: [Personal informations](https://github.com/DavidCavallaro#personal-informations) | [Curriculum](https://github.com/DavidCavallaro#curriculum) | [Altri Progetti](https://github.com/DavidCavallaro#altri-progetti) | [Linguaggi e Strumenti che utilizzo](https://github.com/DavidCavallaro#linguaggi-e-strumenti-che-utilizzo) |  [Stats](https://github.com/DavidCavallaro#stats) | [Trofei](https://github.com/DavidCavallaro#trofei) | [Contatti](https://github.com/DavidCavallaro#contact)
+Indice: [Personal informations](https://github.com/DavidCavallaro#personal-informations) | [Curriculum](https://github.com/DavidCavallaro#curriculum) | [Link](https://github.com/DavidCavallaro#link) | [Languages and Tools](https://github.com/DavidCavallaro#languages-and-tools-i-use) |  [Stats](https://github.com/DavidCavallaro#stats) | [Trophies](https://github.com/DavidCavallaro#trophies) | [Contact](https://github.com/DavidCavallaro#contact)
 
 ### Hello! I'm David but you can call me Kyoko 👋
 <h2 align="left">Personal informations:</h2>
@@ -64,7 +64,7 @@ Abandoned, transferred or inactive projects:
 - [Harris](https://discord.com/oauth2/authorize?client_id=752502711261462588&scope=bot&permissions=2452750167) (private);
 - [Forum EvoStack](https://forum.evostack.cloud/public/categories) (closed).
 
-<h2 align="left">Linguaggi e Strumenti che utilizzo:</h2>
+<h2 align="left">Languages and tools I use:</h2>
 
 - <a href="https://canvasjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> CSS;
 - <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> EXPRESS.JS;
@@ -79,7 +79,7 @@ Abandoned, transferred or inactive projects:
 ![GitHub](https://github-readme-stats.vercel.app/api?username=DavidCavallaro&count_private=true&show_icons=true&theme=radical) 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidCavallaro&show_icons=true&theme=radical)
 
-<h2 align="left">Trofei:</h2>
+<h2 align="left">Trophies:</h2>
 
 <img src="https://github-profile-trophy.vercel.app/?username=DavidCavallaro&theme=dracula">
 
