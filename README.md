@@ -32,20 +32,20 @@ Active projects:
 - Creator of the Bot [Toshiiro](https://discord.com/oauth2/authorize?client_id=713844523247075470&scope=bot&permissions=2452750167) (privato) di Discord;
 - Creator of the Bot [Harris](https://discord.com/oauth2/authorize?client_id=752502711261462588&scope=bot&permissions=2452750167) (privato) di Discord.
 
-Progetti abbandonati, trasferiti o inattivi:
+Abandoned, transferred or inactive projects:
 
-- Owner per il server Discord ChillWumpsHouse (+1000 membri);
-- Owner per il server Discord GamingCommunityItalian (+900 membri);
-- Creatore e proprietario del [Forum EvoStack](https://forum.evostack.cloud/public/categories);
-- Executive Admin per il server Discord [TheZoo Community](https://discord.gg/c2mkpPAw8J) (+12700 membri);
-- Moderatore per la lista per Bot di Discord [InfinityBotList](https://botlist.site) | [GitHub](https://github.com/InfinityBotList);
-- Developer per il server Discord [KuraiK](https://discord.gg/PW4MAvhMRe) (+1300 membri);
-- Helper per il server Discord [4Tuna | eSports](https://discord.gg/K2e5fd6Hyn) (+1700 membri);
-- Helper, Moderatore, Admin e Amministratore per il server Discord [SpaceHub](https://discord.gg/nN9FW5zhvM) (+5000 membri);
-- Helper, Moderatore, Admin, Amministratore e Owner per PokèWorld (+800 membri);
-- Helper, Moderatore e Staff Manager per il server Discord EthyriumZone (+400 membri);
-- Helper, Admin and Owner per il server Minecraft KalyNetwork (+25 player online);
-- Developer e Owner per il server Minecraft SkyFire;
+- Owner for the Discord ChillWumpsHouse server (+1000 membri);
+- Owner for Discord GamingCommunityItalian server (+900 membri);
+- Creator and owner of the Evostack Forum;
+- Executive Admin for [TheZoo Community](https://discord.gg/c2mkpPAw8J) Discord server (+12700 membri);
+- Discord moderator of [InfinityBotList](https://botlist.site) | [GitHub](https://github.com/InfinityBotList);
+- Developer for the Discord [KuraiK](https://discord.gg/PW4MAvhMRe) server (+1300 membri);
+- Helper for Discord [4Tuna | eSports](https://discord.gg/K2e5fd6Hyn) server (+1700 membri);
+- Helper, Moderator, Admin and Administrator for the Discord [SpaceHub](https://discord.gg/nN9FW5zhvM) server (+5000 membri);
+- Helper, Moderator, Admin, Administrator and Owner for PokèWorld (+800 membri);
+- Helper, Moderator and Staff Manager for the EthyriumZone Discord server (+400 membri);
+- Helper, Admin and Owner for the KalyNetwork Minecraft server (+25 player online);
+- Developer and Owner for the Minecraft SkyFire server;
 - Pluginner per il server Discord [4Tuna | eSports](https://discord.gg/K2e5fd6Hyn) (+1700 membri);
 - Admin per il server Minecraft [ImperialCraft](https://www.minecraft-italia.it/server/imperialcraft) (+50 player online);
 - Moderatore per il server Minecraft [MineJoJo](https://www.minecraft-italia.it/server/minejojo) (+10 player online);
