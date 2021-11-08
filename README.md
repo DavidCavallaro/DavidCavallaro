@@ -1,4 +1,4 @@
-Indice: [Personal informations](https://github.com/DavidCavallaro#personal-informations) | [Curriculum](https://github.com/DavidCavallaro#curriculum) | [Altri Progetti](https://github.com/DavidCavallaro#altri-progetti) | [Linguaggi e Strumenti che utilizzo](https://github.com/DavidCavallaro#linguaggi-e-strumenti-che-utilizzo) |  [Statistiche](https://github.com/DavidCavallaro#statistiche) | [Trofei](https://github.com/DavidCavallaro#trofei) | [Contatti](https://github.com/DavidCavallaro#contact)
+Indice: [Personal informations](https://github.com/DavidCavallaro#personal-informations) | [Curriculum](https://github.com/DavidCavallaro#curriculum) | [Altri Progetti](https://github.com/DavidCavallaro#altri-progetti) | [Linguaggi e Strumenti che utilizzo](https://github.com/DavidCavallaro#linguaggi-e-strumenti-che-utilizzo) |  [Stats](https://github.com/DavidCavallaro#stats) | [Trofei](https://github.com/DavidCavallaro#trofei) | [Contatti](https://github.com/DavidCavallaro#contact)
 
 ### Hello! I'm David but you can call me Kyoko 👋
 <h2 align="left">Personal informations:</h2>
@@ -47,22 +47,22 @@ Abandoned, transferred or inactive projects:
 - Helper, Admin and Owner for the KalyNetwork Minecraft server (+25 player online);
 - Developer and Owner for the Minecraft SkyFire server;
 - Pluginner per il server Discord [4Tuna | eSports](https://discord.gg/K2e5fd6Hyn) (+1700 membri);
-- Admin per il server Minecraft [ImperialCraft](https://www.minecraft-italia.it/server/imperialcraft) (+50 player online);
-- Moderatore per il server Minecraft [MineJoJo](https://www.minecraft-italia.it/server/minejojo) (+10 player online);
-- ChatMod per il server Minecraft [RubyCraft](https://www.minecraft-italia.it/server/rubycraft) (+40 player online);
-- Moderatore per il canale Twitch di [psycocat_](https://www.twitch.tv/psycocat_);
-- Moderatore per il canale Twitch di [Gayasai](https://www.twitch.tv/gayasai);
-- Moderatore per il canale Twitch di [XpazzoX](https://www.twitch.tv/xpazzox_official);
-- Moderatore per il canale Twitch di [Ald01ne](https://www.twitch.tv/ald01ne).
+- Helper, Moderator, Admin for the [ImperialCraft](https://www.minecraft-italia.it/server/imperialcraft) Minecraft server (+50 player online);
+- Moderator, Pluginner and Mode Manager for the [MineJoJo](https://www.minecraft-italia.it/server/minejojo) Minecraft server (+10 player online);
+- ChatMod for the [RubyCraft](https://www.minecraft-italia.it/server/rubycraft) Minecraft server (+40 player online);
+- Moderator for the [psycocat_](https://www.twitch.tv/psycocat_) Twitch channel;
+- Moderator for the [Gayasai](https://www.twitch.tv/gayasai) Twitch channel;
+- Moderator for the [XpazzoX](https://www.twitch.tv/xpazzox_official) Twitch channel;
+- Moderator for the [Ald01ne](https://www.twitch.tv/ald01ne) Twitch channel.
 
-<h2 align="left">Link Utili:</h2>
+<h2 align="left">Link:</h2>
 
-- [Friday Night Funkin' BOT](https://discord.com/oauth2/authorize?client_id=840217202862325780&scope=bot&permissions=37080640) (+1520 servers);
-- [Wumps](https://discord.com/oauth2/authorize?client_id=729701120854982706&scope=bot&permissions=2452750167) (+530 servers) [CHIUSO. INFO [QUI](https://github.com/orgs/Chill-Vabes/projects/2)];
+- [Friday Night Funkin' BOT](https://discord.com/oauth2/authorize?client_id=840217202862325780&scope=bot&permissions=37080640) (+1640 servers);
+- [Wumps](https://discord.com/oauth2/authorize?client_id=729701120854982706&scope=bot&permissions=2452750167) (+530 servers) [CLOSED. INFO [HERE](https://github.com/orgs/Chill-Vabes/projects/2)];
 - [Tea Time Anime BOT](https://discord.com/oauth2/authorize?client_id=715708694855417896&scope=bot%20applications.commands&permissions=2147483647) (+387 servers);
-- [Toshiiro](https://discord.com/oauth2/authorize?client_id=713844523247075470&scope=bot&permissions=2452750167) (privato);
-- [Harris](https://discord.com/oauth2/authorize?client_id=752502711261462588&scope=bot&permissions=2452750167) (privato);
-- [Forum EvoStack](https://forum.evostack.cloud/public/categories) (chiuso).
+- [Toshiiro](https://discord.com/oauth2/authorize?client_id=713844523247075470&scope=bot&permissions=2452750167) (private);
+- [Harris](https://discord.com/oauth2/authorize?client_id=752502711261462588&scope=bot&permissions=2452750167) (private);
+- [Forum EvoStack](https://forum.evostack.cloud/public/categories) (closed).
 
 <h2 align="left">Linguaggi e Strumenti che utilizzo:</h2>
 
@@ -74,7 +74,7 @@ Abandoned, transferred or inactive projects:
 - <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> NODE.JS.
 
 
-<h2 align="left">Statistiche:</h2>
+<h2 align="left">Stats:</h2>
 
 ![GitHub](https://github-readme-stats.vercel.app/api?username=DavidCavallaro&count_private=true&show_icons=true&theme=radical) 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidCavallaro&show_icons=true&theme=radical)
@@ -83,10 +83,10 @@ Abandoned, transferred or inactive projects:
 
 <img src="https://github-profile-trophy.vercel.app/?username=DavidCavallaro&theme=dracula">
 
-<h2 align="left">Contatti:</h2>
+<h2 align="left">Contact:</h2>
 
 - Discord: @Kyoko#3885;
-- Telegram: [@RoxyDiscord](https://t.me/RoxyDiscord);
+- Telegram: [@KyokoDiscord](https://t.me/KyokoDiscord);
 - GitHub: [DavidCavallaro](https://github.com/DavidCavallaro).
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DavidCavallaro&color=blueviolet) | ![Profile Followers](https://img.shields.io/badge/Followers-11-blueviolet) | ![Profile Following](https://img.shields.io/badge/Following-14-blueviolet) | ![Profile Stars](https://img.shields.io/badge/Stars-22-blueviolet) | [![Join Now](https://discordapp.com/api/guilds/503190685118103574/widget.png)](https://discord.gg/jxh2qxu)
