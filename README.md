@@ -18,7 +18,7 @@ Active projects:
 - Animator for the parish of [Santa Maria Maddalena](https://www.arcidiocesi.vc.it/vicarie/vercelli/parrocchia-santa-maria-maddalena/);
 - Animator for the parish of [San Giuseppe](https://www.arcidiocesi.vc.it/vicarie/vercelli/parrocchia-san-giuseppe/);
 - Concert performer of the 2021 edition of the International Early Music Course of the [Accademia del Ricercare](https://accademiadelricercare.com/)
-- Winner deserves a traversiere flute won during the 2021 edition of early music created by the [Accademia del Ricercare](https://accademiadelricercare.com/). (sources: [La Sentinella del Canavaese](https://lasentinella.gelocal.it/ivrea/cronaca/2021/08/06/news/dai-corsi-di-musica-antica-ecco-i-giovani-piu-promettenti-1.40576079);
+- Winner deserves a traversiere flute won during the 2021 edition of early music created by the [Accademia del Ricercare](https://accademiadelricercare.com/). (sources: [La Sentinella del Canavaese](https://lasentinella.gelocal.it/ivrea/cronaca/2021/08/06/news/dai-corsi-di-musica-antica-ecco-i-giovani-piu-promettenti-1.40576079) - [CanaveseLocal](https://www.canaveselocal.it/2021/08/26/romano-canavese-corso-internazionale-di-musica-antica-i-vincitori/?utm_source=rss&utm_medium=rss&utm_campaign=romano-canavese-corso-internazionale-di-musica-antica-i-vincitori) - ;
 - First traversiere in the piece "[Grillen-Symphonie by Georg Philipp Telemann](https://youtu.be/PuFJ8VmwsOI)" played in Romano Canavese on 01 August 2021;
 - Head of the digital organization [Ch¡ll V¡bes](https://github.com/Chill-Vabes);
 - Administrator for the Discord server [Chill Vibes](https://dsc.gg/chillvibes-server) (+1700 membri);
