@@ -20,8 +20,6 @@ Active projects:
 - Concert performer of the 2021 edition of the International Early Music Course of the [Accademia del Ricercare](https://accademiadelricercare.com/)
 - Winner deserves a traversiere flute won during the 2021 edition of early music created by the [Accademia del Ricercare](https://accademiadelricercare.com/). (sources: [La Sentinella del Canavaese](https://lasentinella.gelocal.it/ivrea/cronaca/2021/08/06/news/dai-corsi-di-musica-antica-ecco-i-giovani-piu-promettenti-1.40576079) - [CanaveseLocal](https://www.canaveselocal.it/2021/08/26/romano-canavese-corso-internazionale-di-musica-antica-i-vincitori/?utm_source=rss&utm_medium=rss&utm_campaign=romano-canavese-corso-internazionale-di-musica-antica-i-vincitori) - [QC Quotidiano del Canavese](https://www.quotidianocanavese.it/cultura-eventi/romano-canavese-corso-internazionale-di-musica-antica-assegnate-le-borse-di-studio-34338));
 - First traversiere in the piece "[Grillen-Symphonie by Georg Philipp Telemann](https://youtu.be/PuFJ8VmwsOI)" played in Romano Canavese on 01 August 2021;
-- Head of the digital organization [Ch¡ll V¡bes](https://github.com/Chill-Vabes);
-- Administrator for the Discord server [Chill Vibes](https://dsc.gg/chillvibes-server) (+1700 membri);
 - Admin for the Bot Discord [Cybotlist](https://cybotslist.tk/);
 - Moderator for Discord server [Mappa Discord Italia](https://discord.gg/zRRuJ2E) (+500 membri);
 - Informant for the Discord server [Favij's Sgabuzzino](https://discord.gg/favij) (+15800 membri);
@@ -38,6 +36,8 @@ Abandoned, transferred or inactive projects:
 - Owner for the Discord ChillWumpsHouse server (+1000 membri);
 - Owner for Discord GamingCommunityItalian server (+900 membri);
 - Creator and owner of the Evostack Forum;
+- Head of the digital organization [Ch¡ll V¡bes](https://github.com/Chill-Vabes);
+- Administrator for the Discord server [Ch¡ll V¡bes](https://dsc.gg/chillvibes-server) (+1700 membri);
 - Executive Admin for [TheZoo Community](https://discord.gg/c2mkpPAw8J) Discord server (+12700 membri);
 - Discord moderator of [InfinityBotList](https://botlist.site) | [GitHub](https://github.com/InfinityBotList);
 - Developer for the Discord [KuraiK](https://discord.gg/PW4MAvhMRe) server (+1300 membri);
