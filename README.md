@@ -20,38 +20,38 @@ Active projects:
 - Concert performer of the 2021 edition of the International Early Music Course of the [Accademia del Ricercare](https://accademiadelricercare.com/)
 - Winner deserves a traversiere flute won during the 2021 edition of early music created by the [Accademia del Ricercare](https://accademiadelricercare.com/). (sources: [La Sentinella del Canavaese](https://lasentinella.gelocal.it/ivrea/cronaca/2021/08/06/news/dai-corsi-di-musica-antica-ecco-i-giovani-piu-promettenti-1.40576079) - [CanaveseLocal](https://www.canaveselocal.it/2021/08/26/romano-canavese-corso-internazionale-di-musica-antica-i-vincitori/?utm_source=rss&utm_medium=rss&utm_campaign=romano-canavese-corso-internazionale-di-musica-antica-i-vincitori) - [QC Quotidiano del Canavese](https://www.quotidianocanavese.it/cultura-eventi/romano-canavese-corso-internazionale-di-musica-antica-assegnate-le-borse-di-studio-34338));
 - First traversiere in the piece "[Grillen-Symphonie by Georg Philipp Telemann](https://youtu.be/PuFJ8VmwsOI)" played in Romano Canavese on 01 August 2021;
-- Creator of the Horuki [Discord Server](https://discord.gg/t2KDpzeu8w) (+200 membri);
+- Creator of the Horuki [Discord Server](https://discord.gg/t2KDpzeu8w) (+400 members);
 - Admin for the Bot Discord [Cybotlist](https://cybotslist.tk/);
-- Moderator for Discord server [Mappa Discord Italia](https://discord.gg/zRRuJ2E) (+500 membri);
-- Informant for the Discord server [Favij's Sgabuzzino](https://discord.gg/favij) (+15800 membri);
-- Informant for the Discord server [Lo Stormo di Sbriser](https://discord.gg/sbriser) (+34000 membri);
+- Moderator for Discord server [Mappa Discord Italia](https://discord.gg/zRRuJ2E) (+500 members);
+- Informant for the Discord server [Favij's Sgabuzzino](https://discord.gg/favij) (+15800 members);
+- Informant for the Discord server [Lo Stormo di Sbriser](https://discord.gg/sbriser) (+34000 members);
 - Bug Researcher for [Discord](https://discord.gg/discord-testers)(Bug Segnalati: 3 | Bug Approvati: 2);
-- Creator of the Bot [Wumps](https://discord.com/oauth2/authorize?client_id=729701120854982706&scope=bot&permissions=2452750167) (+500 server) di Discord;
-- Owner of the [Tea Time Anime BOT](https://discord.com/oauth2/authorize?client_id=715708694855417896&scope=bot%20applications.commands&permissions=2147483647) (+390 server) di Discord;
-- Owner of the [Friday Night Funkin' BOT](https://discord.com/oauth2/authorize?client_id=840217202862325780&scope=bot&permissions=37080640) (+1640 server) di Discord;
-- Creator of the Bot [Toshiiro](https://discord.com/oauth2/authorize?client_id=713844523247075470&scope=bot&permissions=2452750167) (privato) di Discord;
-- Creator of the Bot [Harris](https://discord.com/oauth2/authorize?client_id=752502711261462588&scope=bot&permissions=2452750167) (privato) di Discord.
+- Creator of the Bot [Wumps](https://discord.com/oauth2/authorize?client_id=729701120854982706&scope=bot&permissions=2452750167) (+500 servers);
+- Owner of the [Tea Time Anime BOT](https://discord.com/oauth2/authorize?client_id=715708694855417896&scope=bot%20applications.commands&permissions=2147483647) (+390 server);
+- Owner of the [Friday Night Funkin' BOT](https://discord.com/oauth2/authorize?client_id=840217202862325780&scope=bot&permissions=37080640) (+1640 server);
+- Creator of the Bot [Toshiiro](https://discord.com/oauth2/authorize?client_id=713844523247075470&scope=bot&permissions=2452750167) (private);
+- Creator of the Bot [Harris](https://discord.com/oauth2/authorize?client_id=752502711261462588&scope=bot&permissions=2452750167) (private).
 
 Abandoned, transferred or inactive projects:
 
-- Owner for the Discord ChillWumpsHouse server (+1000 membri);
-- Owner for Discord GamingCommunityItalian server (+900 membri);
+- Owner for the Discord ChillWumpsHouse server (+1000 members);
+- Owner for Discord GamingCommunityItalian server (+900 members);
 - Creator and owner of the Evostack Forum;
 - Head of the digital organization [Ch¡ll V¡bes](https://github.com/Chill-Vabes);
-- Administrator for the Discord server [Ch¡ll V¡bes](https://dsc.gg/chillvibes-server) (+1700 membri);
-- Executive Admin for [TheZoo Community](https://discord.gg/c2mkpPAw8J) Discord server (+12700 membri);
+- Administrator for the Discord server [Ch¡ll V¡bes](https://dsc.gg/chillvibes-server) (+1700 members);
+- Executive Admin for [TheZoo Community](https://discord.gg/c2mkpPAw8J) Discord server (+12700 members);
 - Discord moderator of [InfinityBotList](https://botlist.site) | [GitHub](https://github.com/InfinityBotList);
-- Developer for the Discord [KuraiK](https://discord.gg/PW4MAvhMRe) server (+1300 membri);
-- Helper for Discord [4Tuna | eSports](https://discord.gg/K2e5fd6Hyn) server (+1700 membri);
-- Helper, Moderator, Admin and Administrator for the Discord [SpaceHub](https://discord.gg/nN9FW5zhvM) server (+5000 membri);
-- Helper, Moderator, Admin, Administrator and Owner for PokèWorld (+800 membri);
-- Helper, Moderator and Staff Manager for the EthyriumZone Discord server (+400 membri);
-- Helper, Admin and Owner for the KalyNetwork Minecraft server (+25 player online);
+- Developer for the Discord [KuraiK](https://discord.gg/PW4MAvhMRe) server (+1300 members);
+- Helper for Discord [4Tuna | eSports](https://discord.gg/K2e5fd6Hyn) server (+1700 members);
+- Helper, Moderator, Admin and Administrator for the Discord [SpaceHub](https://discord.gg/nN9FW5zhvM) server (+5000 members);
+- Helper, Moderator, Admin, Administrator and Owner for PokèWorld (+800 members);
+- Helper, Moderator and Staff Manager for the EthyriumZone Discord server (+400 members);
+- Helper, Admin and Owner for the KalyNetwork Minecraft server (+25 online players);
 - Developer and Owner for the Minecraft SkyFire server;
-- Pluginner per il server Discord [4Tuna | eSports](https://discord.gg/K2e5fd6Hyn) (+1700 membri);
-- Helper, Moderator, Admin for the [ImperialCraft](https://www.minecraft-italia.it/server/imperialcraft) Minecraft server (+50 player online);
-- Moderator, Pluginner and Mode Manager for the [MineJoJo](https://www.minecraft-italia.it/server/minejojo) Minecraft server (+10 player online);
-- ChatMod for the [RubyCraft](https://www.minecraft-italia.it/server/rubycraft) Minecraft server (+40 player online);
+- Pluginner per il server Discord [4Tuna | eSports](https://discord.gg/K2e5fd6Hyn) (+1700 members);
+- Helper, Moderator, Admin for the [ImperialCraft](https://www.minecraft-italia.it/server/imperialcraft) Minecraft server (+50 online players);
+- Moderator, Pluginner and Mode Manager for the [MineJoJo](https://www.minecraft-italia.it/server/minejojo) Minecraft server (+10 online players);
+- ChatMod for the [RubyCraft](https://www.minecraft-italia.it/server/rubycraft) Minecraft server (+40 online players);
 - Moderator for the [psycocat_](https://www.twitch.tv/psycocat_) Twitch channel;
 - Moderator for the [Gayasai](https://www.twitch.tv/gayasai) Twitch channel;
 - Moderator for the [XpazzoX](https://www.twitch.tv/xpazzox_official) Twitch channel;
