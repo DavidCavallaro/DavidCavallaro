@@ -14,18 +14,15 @@ Indice: [Personal informations](https://github.com/DavidCavallaro#personal-infor
 
 Active projects:
 
-- Collaborator for the [Viotti Festival](http://www.viottifestival.it/_dynapage/index_Home.asp?pageId=78&primopiano=1) concert season;
+- Collaborator for the [Viotti Festival](http://www.viottifestival.it/_dynapage/index_Home.asp?pageId=78&primopiano=1) concert season 2020-2021 and 2021-2022;
 - Animator for the parish of [Santa Maria Maddalena](https://www.arcidiocesi.vc.it/vicarie/vercelli/parrocchia-santa-maria-maddalena/);
 - Animator for the parish of [San Giuseppe](https://www.arcidiocesi.vc.it/vicarie/vercelli/parrocchia-san-giuseppe/);
-- Concert performer of the 2021 edition of the International Early Music Course of the [Accademia del Ricercare](https://accademiadelricercare.com/)
-- Winner deserves a traversiere flute won during the 2021 edition of early music created by the [Accademia del Ricercare](https://accademiadelricercare.com/). (sources: [La Sentinella del Canavaese](https://lasentinella.gelocal.it/ivrea/cronaca/2021/08/06/news/dai-corsi-di-musica-antica-ecco-i-giovani-piu-promettenti-1.40576079) - [CanaveseLocal](https://www.canaveselocal.it/2021/08/26/romano-canavese-corso-internazionale-di-musica-antica-i-vincitori/?utm_source=rss&utm_medium=rss&utm_campaign=romano-canavese-corso-internazionale-di-musica-antica-i-vincitori) - [QC Quotidiano del Canavese](https://www.quotidianocanavese.it/cultura-eventi/romano-canavese-corso-internazionale-di-musica-antica-assegnate-le-borse-di-studio-34338));
-- First traversiere in the piece "[Grillen-Symphonie by Georg Philipp Telemann](https://youtu.be/PuFJ8VmwsOI)" played in Romano Canavese on 01 August 2021;
-- Creator of the Horuki [Discord Server](https://discord.gg/t2KDpzeu8w) (+400 members);
-- Admin for the Bot Discord [Cybotlist](https://cybotslist.tk/);
-- Moderator for Discord server [Mappa Discord Italia](https://discord.gg/zRRuJ2E) (+500 members);
-- Informant for the Discord server [Favij's Sgabuzzino](https://discord.gg/favij) (+15800 members);
-- Informant for the Discord server [Lo Stormo di Sbriser](https://discord.gg/sbriser) (+34000 members);
-- Bug Researcher for [Discord](https://discord.gg/discord-testers)(Bug Segnalati: 3 | Bug Approvati: 2);
+- Concert performer of the 2021 edition of the International Early Music Course of the [Accademia del Ricercare](https://accademiadelricercare.com/) [01 August 2021];
+- Winner deserves a traversiere flute won during the 2021 edition of early music created by the [Accademia del Ricercare](https://accademiadelricercare.com/). (sources: [La Sentinella del Canavese](https://lasentinella.gelocal.it/ivrea/cronaca/2021/08/06/news/dai-corsi-di-musica-antica-ecco-i-giovani-piu-promettenti-1.40576079) - [CanaveseLocal](https://www.canaveselocal.it/2021/08/26/romano-canavese-corso-internazionale-di-musica-antica-i-vincitori/?utm_source=rss&utm_medium=rss&utm_campaign=romano-canavese-corso-internazionale-di-musica-antica-i-vincitori) - [QC Quotidiano del Canavese](https://www.quotidianocanavese.it/cultura-eventi/romano-canavese-corso-internazionale-di-musica-antica-assegnate-le-borse-di-studio-34338)) [01 August 2021];
+- First traversiere in the piece "[Grillen-Symphonie by Georg Philipp Telemann](https://youtu.be/PuFJ8VmwsOI)" played in Romano Canavese [01 August 2021];
+- Creator of the Horuki [Discord Server](https://discord.gg/t2KDpzeu8w) (+500 members) [December 2021 - ???];
+- Moderator for Discord server [Mappa Discord Italia](https://discord.gg/zRRuJ2E) (+500 members) [September 2021 - ???];
+- Bug Researcher for [Discord](https://discord.gg/discord-testers)(Bug Segnalati: 3 | Bug Approvati: 2) [Since July 2020 - ???];
 - Creator of the Bot [Wumps](https://discord.com/oauth2/authorize?client_id=729701120854982706&scope=bot&permissions=2452750167) (+500 servers);
 - Owner of the [Tea Time Anime BOT](https://discord.com/oauth2/authorize?client_id=715708694855417896&scope=bot%20applications.commands&permissions=2147483647) (+390 server);
 - Owner of the [Friday Night Funkin' BOT](https://discord.com/oauth2/authorize?client_id=840217202862325780&scope=bot&permissions=37080640) (+1640 server);
@@ -40,6 +37,7 @@ Abandoned, transferred or inactive projects:
 - Head of the digital organization [Ch¡ll V¡bes](https://github.com/Chill-Vabes);
 - Administrator for the Discord server [Ch¡ll V¡bes](https://dsc.gg/chillvibes-server) (+1700 members);
 - Executive Admin for [TheZoo Community](https://discord.gg/c2mkpPAw8J) Discord server (+12700 members);
+- Admin for the Bot Discord [Cybotlist](https://cybotslist.tk/) [October 2021 - December 2021]
 - Discord moderator of [InfinityBotList](https://botlist.site) | [GitHub](https://github.com/InfinityBotList);
 - Developer for the Discord [KuraiK](https://discord.gg/PW4MAvhMRe) server (+1300 members);
 - Helper for Discord [4Tuna | eSports](https://discord.gg/K2e5fd6Hyn) server (+1700 members);
@@ -47,6 +45,8 @@ Abandoned, transferred or inactive projects:
 - Helper, Moderator, Admin, Administrator and Owner for PokèWorld (+800 members);
 - Helper, Moderator and Staff Manager for the EthyriumZone Discord server (+400 members);
 - Helper, Admin and Owner for the KalyNetwork Minecraft server (+25 online players);
+- Informant for the Discord server [Favij's Sgabuzzino](https://discord.gg/favij) (+15200 members) [February 2021 - July 2021];
+- Informant for the Discord server [Lo Stormo di Sbriser](https://discord.gg/sbriser) (+34500 members) [February 2021 - July 2021];
 - Developer and Owner for the Minecraft SkyFire server;
 - Pluginner per il server Discord [4Tuna | eSports](https://discord.gg/K2e5fd6Hyn) (+1700 members);
 - Helper, Moderator, Admin for the [ImperialCraft](https://www.minecraft-italia.it/server/imperialcraft) Minecraft server (+50 online players);
