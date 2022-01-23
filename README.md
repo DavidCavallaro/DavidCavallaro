@@ -41,7 +41,7 @@ Virtual Abandoned, Transferred Or Inactive Projects:
 - Owner for the Discord ChillWumpsHouse server (+1300 members) [June 2020 - April 2021];
 - Owner for Discord GamingCommunityItalian server (+900 members) [May 2020 - August 2020];
 - Creator and owner of the Evostack Forum [January 2021 - July 2021];
-- Head of the digital organization [Ch¡ll V¡bes](https://github.com/Chill-Vabes) [July 2021 - December 2021];
+- Head of the digital organization [Chill Vibes](https://github.com/Chill-Vabes) [July 2021 - December 2021];
 - Executive Admin for [TheZoo Community](https://discord.gg/c2mkpPAw8J) Discord server (+12700 members) [February 2021 - July 2021];
 - Admin for the Bot Discord [Cybotlist](https://cybotslist.tk/) [October 2021 - December 2021]
 - Discord moderator of [InfinityBotList](https://botlist.site) | [GitHub](https://github.com/InfinityBotList); [June 2021 - August 2021]
