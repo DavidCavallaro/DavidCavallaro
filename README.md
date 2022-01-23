@@ -15,7 +15,11 @@ Indice: [Personal informations](https://github.com/DavidCavallaro#personal-infor
 Real Active Projects:
 
 - Collaborator for the [Viotti Festival](http://www.viottifestival.it/_dynapage/index_Home.asp?pageId=78&primopiano=1) concert season 2020-2021 and 2021-2022;
+- Volunteer for "[Comunità Di Sant'Egidio](https://www.santegidio.org/)".
+
+Virtual Active Projects:
 - Creator of the Horuki [Discord Server](https://discord.gg/t2KDpzeu8w) (+500 members) [December 2021 - ???];
+- Co-Founder of the [Coldsea ℓꪮ𝒇𝓲 ♡]()
 - Moderator for Discord server [Mappa Discord Italia](https://discord.gg/zRRuJ2E) (+500 members) [September 2021 - ???];
 - Bug Researcher for [Discord](https://discord.gg/discord-testers)(Bug Segnalati: 3 | Bug Approvati: 2) [Since July 2020 - ???];
 - Creator of the Bot [Wumps](https://discord.com/oauth2/authorize?client_id=729701120854982706&scope=bot&permissions=2452750167) (+500 servers);
@@ -23,9 +27,6 @@ Real Active Projects:
 - Owner of the [Friday Night Funkin' BOT](https://discord.com/oauth2/authorize?client_id=840217202862325780&scope=bot&permissions=37080640) (+1640 server);
 - Creator of the Bot [Toshiiro](https://discord.com/oauth2/authorize?client_id=713844523247075470&scope=bot&permissions=2452750167) (private);
 - Creator of the Bot [Harris](https://discord.com/oauth2/authorize?client_id=752502711261462588&scope=bot&permissions=2452750167) (private).
-
-Virtual Active Projects:
-
 
 Abandoned, transferred or inactive projects:
 
