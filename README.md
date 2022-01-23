@@ -56,12 +56,12 @@ Virtual Abandoned, Transferred Or Inactive Projects:
 - Developer and Owner for the Minecraft SkyFire server;
 - Pluginner per il server Discord [4Tuna | eSports](https://discord.gg/K2e5fd6Hyn) (+1700 members) [June 2021 - July 2021];
 - Helper, Moderator, Admin for the [ImperialCraft](https://www.minecraft-italia.it/server/imperialcraft) Minecraft server (+50 online players) [January 2021 - March 2021];
-- Moderator, Pluginner and Mode Manager for the [MineJoJo](https://www.minecraft-italia.it/server/minejojo) Minecraft server (+20 online players) ;
+- Moderator, Pluginner and Mode Manager for the [MineJoJo](https://www.minecraft-italia.it/server/minejojo) Minecraft server (+20 online players) [September 2021 - November 2021];
 - ChatMod for the [RubyCraft](https://www.minecraft-italia.it/server/rubycraft) Minecraft server (+40 online players) [February 2021 - March 2021];
-- Moderator for the [psycocat_](https://www.twitch.tv/psycocat_) Twitch channel;
-- Moderator for the [Gayasai](https://www.twitch.tv/gayasai) Twitch channel;
-- Moderator for the [XpazzoX](https://www.twitch.tv/xpazzox_official) Twitch channel;
-- Moderator for the [Ald01ne](https://www.twitch.tv/ald01ne) Twitch channel.
+- Moderator for the [psycocat_](https://www.twitch.tv/psycocat_) Twitch channel [2017 - 2019];
+- Moderator for the [Gayasai](https://www.twitch.tv/gayasai) Twitch channel [2019 - 2020];
+- Moderator for the [XpazzoX](https://www.twitch.tv/xpazzox_official) Twitch channel [2017 - 2018];
+- Moderator for the [Ald01ne](https://www.twitch.tv/ald01ne) Twitch channel [2017 - 2019].
 
 <h2 align="left">Link:</h2>
 
