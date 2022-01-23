@@ -12,7 +12,7 @@ Indice: [Personal informations](https://github.com/DavidCavallaro#personal-infor
 
 <h2 align="left">Curriculum:</h2>
 
-Real Active Projects:
+Active Projects In Reality:
 
 - Collaborator for the [Viotti Festival](http://www.viottifestival.it/_dynapage/index_Home.asp?pageId=78&primopiano=1) concert season 2020-2021 and 2021-2022;
 - Volunteer for "[Comunità Di Sant'Egidio](https://www.santegidio.org/)".
@@ -29,7 +29,7 @@ Virtual Active Projects:
 - Creator of the Bot [Harris](https://discord.com/oauth2/authorize?client_id=752502711261462588&scope=bot&permissions=2452750167) (private);
 - Creator of the Bot [Springle](https://discord.com/oauth2/authorize?client_id=784915674828767282&scope=bot&permissions=2452750167) (private).
 
-Real Abandoned, Transferred Or Inactive Projects:
+Abandoned, Transferred Or Inactive Projects In Reality:
 - Animator for the parish of [Santa Maria Maddalena](https://www.arcidiocesi.vc.it/vicarie/vercelli/parrocchia-santa-maria-maddalena/) [2017 - 2020];
 - Animator for the parish of [San Giuseppe](https://www.arcidiocesi.vc.it/vicarie/vercelli/parrocchia-san-giuseppe/) [2017 - 2020];
 - Concert performer of the 2021 edition of the International Early Music Course of the [Accademia del Ricercare](https://accademiadelricercare.com/) [01 August 2021];
