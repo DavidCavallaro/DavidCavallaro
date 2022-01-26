@@ -97,6 +97,6 @@ Virtual Abandoned, Transferred Or Inactive Projects:
 - Telegram: [@KyokoDiscord](https://t.me/KyokoDiscord);
 - GitHub: [DavidCavallaro](https://github.com/DavidCavallaro).
 
-![Profile Views](https://komarev.com/ghpvc/?username=DavidCavallaro&color=blueviolet) | ![Profile Followers](https://img.shields.io/badge/Followers-10-blueviolet) | ![Profile Following](https://img.shields.io/badge/Following-14-blueviolet) | ![Profile Stars](https://img.shields.io/badge/Stars-23-blueviolet) | [![Join Now](https://discordapp.com/api/guilds/503190685118103574/widget.png)](https://discord.gg/t2KDpzeu8w)
+![Profile Views](https://komarev.com/ghpvc/?username=DavidCavallaro&color=blueviolet) | ![Profile Followers](https://img.shields.io/badge/Followers-10-blueviolet) | ![Profile Following](https://img.shields.io/badge/Following-14-blueviolet) | ![Profile Stars](https://img.shields.io/badge/Stars-23-blueviolet) | [![Join Now](https://imgur.com/HMYvm9s)](https://discord.gg/t2KDpzeu8w)
 
 [![Discord](https://media.discordapp.net/attachments/808798373543936000/917154595699056640/standard_2.gif)](https://discord.gg/jxh2qxu)
