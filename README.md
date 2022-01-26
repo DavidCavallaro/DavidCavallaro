@@ -99,4 +99,4 @@ Virtual Abandoned, Transferred Or Inactive Projects:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DavidCavallaro&color=blueviolet) | ![Profile Followers](https://img.shields.io/badge/Followers-10-blueviolet) | ![Profile Following](https://img.shields.io/badge/Following-14-blueviolet) | ![Profile Stars](https://img.shields.io/badge/Stars-23-blueviolet)
 
-[![Discord](media.discordapp.net/attachments/808798373543936000/917154595699056640/standard_2.gif)](https://discord.gg/t2KDpzeu8w)
+![Discord](media.discordapp.net/attachments/808798373543936000/917154595699056640/standard_2.gif)](https://discord.gg/t2KDpzeu8w)
