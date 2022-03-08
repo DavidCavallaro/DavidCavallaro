@@ -19,7 +19,6 @@ Active Projects In Reality:
 
 Virtual Active Projects:
 - Creator of the Horuki [Discord Server](https://discord.gg/t2KDpzeu8w) (+500 members) [December 2021 - ???];
-- Co-Founder of the [Coldsea ℓꪮ𝒇𝓲 ♡](https://discord.gg/M7dRwrBKzE) (+1700 members) [January 2022 - ???];
 - Moderator for Discord server [Mappa Discord Italia](https://discord.gg/zRRuJ2E) (+500 members) [September 2021 - ???];
 - Bug Researcher for [Discord](https://discord.gg/discord-testers)(Bug Segnalati: 3 | Bug Approvati: 2) [Since July 2020 - ???];
 - Creator of the Bot [Wumps](https://discord.com/oauth2/authorize?client_id=729701120854982706&scope=bot&permissions=2452750167) (+500 servers);
@@ -40,6 +39,7 @@ Virtual Abandoned, Transferred Or Inactive Projects:
 - Creator for the Discord Chill Vibes server (+2000 members) [July 2021 - December 2021];
 - Owner for the Discord ChillWumpsHouse server (+1300 members) [June 2020 - April 2021];
 - Owner for Discord GamingCommunityItalian server (+900 members) [May 2020 - August 2020];
+- Co-Founder of the [Coldsea ℓꪮ𝒇𝓲 ♡] (+1700 members) [January 2022 - February 2022];
 - Creator and owner of the Evostack Forum [January 2021 - July 2021];
 - Head of the digital organization [Chill Vibes](https://github.com/Chill-Vabes) [July 2021 - December 2021];
 - Executive Admin for [TheZoo Community](https://discord.gg/c2mkpPAw8J) Discord server (+12700 members) [February 2021 - July 2021];
