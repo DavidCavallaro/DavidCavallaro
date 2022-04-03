@@ -1,4 +1,4 @@
-Index: [Personal informations](https://github.com/DavidCavallaro#personal-informations) | [Curriculum](https://github.com/DavidCavallaro#curriculum) | [Link](https://github.com/DavidCavallaro#link) | [Languages and Tools](https://github.com/DavidCavallaro#languages-and-tools-i-use) |  [Stats](https://github.com/DavidCavallaro#stats) | [Trophies](https://github.com/DavidCavallaro#trophies) | [Contact](https://github.com/DavidCavallaro#contact)
+__Index__: [Personal informations](https://github.com/DavidCavallaro#personal-informations) | [Curriculum](https://github.com/DavidCavallaro#curriculum) | [Link](https://github.com/DavidCavallaro#link) | [Languages and Tools](https://github.com/DavidCavallaro#languages-and-tools-i-use) |  [Stats](https://github.com/DavidCavallaro#stats) | [Trophies](https://github.com/DavidCavallaro#trophies) | [Contact](https://github.com/DavidCavallaro#contact)
 
 ### Hello! I'm David but you can call me Kyoko 👋
 <h2 align="left">Personal informations:</h2>
@@ -96,7 +96,7 @@ Merits:
 
 <h2 align="left">Contact:</h2>
 
-- Discord: @Kyoko#3885;
+- Discord: @iosonodavid#3885;
 - Telegram: [@KyokoDiscord](https://t.me/KyokoDiscord);
 - GitHub: [DavidCavallaro](https://github.com/DavidCavallaro).
 
