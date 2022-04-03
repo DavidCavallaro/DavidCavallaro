@@ -38,7 +38,7 @@ Virtual Abandoned, Transferred Or Inactive Projects:
 - Creator for the Chill Vibes Discord Server (+2000 members) [July 2021 - December 2021];
 - Owner for the ChillWumpsHouse Discord Server (+1300 members) [June 2020 - April 2021];
 - Owner for the GamingCommunityItalian Discord Server (+900 members) [May 2020 - August 2020];
-- Co-Founder of the [Coldsea ℓꪮ𝒇𝓲 ♡] (+1700 members) Discord Server [January 2022 - February 2022];
+- Co-Founder of the Coldsea ℓꪮ𝒇𝓲 ♡ (+1700 members) Discord Server [January 2022 - February 2022];
 - Creator and owner of the Evostack Forum [January 2021 - July 2021];
 - Head of the digital organization [Chill Vibes](https://github.com/Chill-Vabes) [July 2021 - December 2021];
 - Executive Admin for [TheZoo Community](https://discord.gg/c2mkpPAw8J) Discord server (+12700 members) [February 2021 - July 2021];
