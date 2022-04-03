@@ -19,7 +19,7 @@ Active Projects In Reality:
 
 Virtual Active Projects:
 - Creator of the [Horuki](https://discord.gg/t2KDpzeu8w) Discord Server (+500 members) [December 2021 - ???];
-- Staff of the Earth Community (https://discord.gg/HTHqGzcyzA) Discord Server (+7300 members) [February 2022 - ???];
+- Staff of the [Earth Community](https://discord.gg/HTHqGzcyzA) Discord Server (+7300 members) [February 2022 - ???];
 - Moderator of the [Mappa Discord Italia](https://discord.gg/zRRuJ2E) Discord Server (+500 members) [September 2021 - ???];
 - Creator of the [Wumps](https://discord.com/oauth2/authorize?client_id=729701120854982706&scope=bot&permissions=2452750167) Bot (+520 servers);
 - Owner of the [Tea Time Anime BOT](https://discord.com/oauth2/authorize?client_id=715708694855417896&scope=bot%20applications.commands&permissions=2147483647) Bot (+360 servers);
