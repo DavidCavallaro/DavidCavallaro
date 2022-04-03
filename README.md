@@ -97,7 +97,7 @@ Merits:
 <h2 align="left">Contact:</h2>
 
 - Discord: @iosonodavid#3885;
-- Telegram: [@KyokoDiscord](https://t.me/KyokoDiscord);
+- Telegram: [@iosonodavid3885](https://t.me/iosonodavid3885);
 - GitHub: [DavidCavallaro](https://github.com/DavidCavallaro).
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DavidCavallaro&color=blueviolet) | ![Profile Followers](https://img.shields.io/badge/Followers-10-blueviolet) | ![Profile Following](https://img.shields.io/badge/Following-14-blueviolet) | ![Profile Stars](https://img.shields.io/badge/Stars-23-blueviolet)
