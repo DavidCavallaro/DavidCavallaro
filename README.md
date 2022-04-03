@@ -18,10 +18,10 @@ Active Projects In Reality:
 - Volunteer for "[Comunità Di Sant'Egidio](https://www.santegidio.org/)".
 
 Virtual Active Projects:
-- Creator of the [Horuki](https://discord.gg/t2KDpzeu8w) Discord Server (+500 members) [December 2021 - ???];
-- Staff of the [Earth Community](https://discord.gg/HTHqGzcyzA) Discord Server (+7300 members) [February 2022 - ???];
+- Creator of the __[Horuki]__(https://discord.gg/t2KDpzeu8w) Discord Server (+500 members) [December 2021 - ???];
+- Staff of the __[Earth Community]__(https://discord.gg/HTHqGzcyzA) Discord Server (+7300 members) [February 2022 - ???];
 - Moderator of the [Mappa Discord Italia](https://discord.gg/zRRuJ2E) Discord Server (+500 members) [September 2021 - ???];
-- Creator of the [Wumps](https://discord.com/oauth2/authorize?client_id=729701120854982706&scope=bot&permissions=2452750167) Bot (+520 servers);
+- Creator of the __[Wumps]__(https://discord.com/oauth2/authorize?client_id=729701120854982706&scope=bot&permissions=2452750167) Bot (+520 servers);
 - Owner of the [Tea Time Anime BOT](https://discord.com/oauth2/authorize?client_id=715708694855417896&scope=bot%20applications.commands&permissions=2147483647) Bot (+360 servers);
 - Owner of the [Friday Night Funkin' BOT](https://discord.com/oauth2/authorize?client_id=840217202862325780&scope=bot&permissions=37080640) Bot (+2040 servers);
 - Creator of the [Toshiiro](https://discord.com/oauth2/authorize?client_id=713844523247075470&scope=bot&permissions=2452750167) Bot (private);
