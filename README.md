@@ -5,8 +5,8 @@ Index: [Personal informations](https://github.com/DavidCavallaro#personal-inform
 
 - Name and surname: David Cavallaro;
 - Age: 18;
-- Birthday: 27 settembre;
-- Born in: Piemonte, Italia;
+- Birthday: 27 September;
+- Born in: Piemonte, Italy;
 - Resident in: Piemonte, Italy;
 - Attending school: High School of Music and Choreutics.
 
