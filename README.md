@@ -19,21 +19,21 @@ Active Projects In Reality:
 
 Virtual Active Projects:
 - Creator of the [Horuki](https://discord.gg/t2KDpzeu8w) Discord Server (+500 members) [December 2021 - ???];
-- Stuff of 
+- Staff of the Earth Community (https://discord.gg/HTHqGzcyzA) Discord Server (+7300 members) [February 2022 - ???];
 - Moderator of the [Mappa Discord Italia](https://discord.gg/zRRuJ2E) Discord Server (+500 members) [September 2021 - ???];
 - Bug Researcher for [Discord](https://discord.gg/discord-testers)(Bug Segnalati: 3 | Bug Approvati: 2) [Since July 2020 - ???];
 - Creator of the [Wumps](https://discord.com/oauth2/authorize?client_id=729701120854982706&scope=bot&permissions=2452750167) Bot (+500 servers);
 - Owner of the [Tea Time Anime BOT](https://discord.com/oauth2/authorize?client_id=715708694855417896&scope=bot%20applications.commands&permissions=2147483647) Bot (+390 servers);
 - Owner of the [Friday Night Funkin' BOT](https://discord.com/oauth2/authorize?client_id=840217202862325780&scope=bot&permissions=37080640) Bot (+1910 servers);
-- Creator of the [Toshiiro](https://discord.com/oauth2/authorize?client_id=713844523247075470&scope=bot&permissions=2452750167) (private);
-- Creator of the [Harris](https://discord.com/oauth2/authorize?client_id=752502711261462588&scope=bot&permissions=2452750167) (private);
-- Creator of the [Springle](https://discord.com/oauth2/authorize?client_id=784915674828767282&scope=bot&permissions=2452750167) (private).
+- Creator of the [Toshiiro](https://discord.com/oauth2/authorize?client_id=713844523247075470&scope=bot&permissions=2452750167) Bot (private);
+- Creator of the [Harris](https://discord.com/oauth2/authorize?client_id=752502711261462588&scope=bot&permissions=2452750167) Bot (private);
+- Creator of the [Springle](https://discord.com/oauth2/authorize?client_id=784915674828767282&scope=bot&permissions=2452750167) Bot (private).
 
 Abandoned, Transferred Or Inactive Projects In Reality:
 - Animator for the parish of [Santa Maria Maddalena](https://www.arcidiocesi.vc.it/vicarie/vercelli/parrocchia-santa-maria-maddalena/) [2017 - 2020];
 - Animator for the parish of [San Giuseppe](https://www.arcidiocesi.vc.it/vicarie/vercelli/parrocchia-san-giuseppe/) [2017 - 2020];
 - Concert performer of the 2021 edition of the International Early Music Course of the [Accademia del Ricercare](https://accademiadelricercare.com/) [01 August 2021];
-- Winner deserves a traversiere flute won during the 2021 edition of early music created by the [Accademia del Ricercare](https://accademiadelricercare.com/). (sources: [La Sentinella del Canavese](https://lasentinella.gelocal.it/ivrea/cronaca/2021/08/06/news/dai-corsi-di-musica-antica-ecco-i-giovani-piu-promettenti-1.40576079) - [CanaveseLocal](https://www.canaveselocal.it/2021/08/26/romano-canavese-corso-internazionale-di-musica-antica-i-vincitori/?utm_source=rss&utm_medium=rss&utm_campaign=romano-canavese-corso-internazionale-di-musica-antica-i-vincitori) - [QC Quotidiano del Canavese](https://www.quotidianocanavese.it/cultura-eventi/romano-canavese-corso-internazionale-di-musica-antica-assegnate-le-borse-di-studio-34338)) [01 August 2021];
+- Winner of a traversiere flute during the international course organized by [Accademia del Ricercare](https://accademiadelricercare.com/). (sources: [La Sentinella del Canavese](https://lasentinella.gelocal.it/ivrea/cronaca/2021/08/06/news/dai-corsi-di-musica-antica-ecco-i-giovani-piu-promettenti-1.40576079) - [CanaveseLocal](https://www.canaveselocal.it/2021/08/26/romano-canavese-corso-internazionale-di-musica-antica-i-vincitori/?utm_source=rss&utm_medium=rss&utm_campaign=romano-canavese-corso-internazionale-di-musica-antica-i-vincitori) - [QC Quotidiano del Canavese](https://www.quotidianocanavese.it/cultura-eventi/romano-canavese-corso-internazionale-di-musica-antica-assegnate-le-borse-di-studio-34338)) [01 August 2021];
 - First traversiere in the piece "[Grillen-Symphonie by Georg Philipp Telemann](https://youtu.be/PuFJ8VmwsOI)" played in Romano Canavese [01 August 2021].
 
 Virtual Abandoned, Transferred Or Inactive Projects:
