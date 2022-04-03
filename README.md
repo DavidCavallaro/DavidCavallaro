@@ -18,15 +18,16 @@ Active Projects In Reality:
 - Volunteer for "[Comunità Di Sant'Egidio](https://www.santegidio.org/)".
 
 Virtual Active Projects:
-- Creator of the Horuki [Discord Server](https://discord.gg/t2KDpzeu8w) (+500 members) [December 2021 - ???];
-- Moderator for Discord server [Mappa Discord Italia](https://discord.gg/zRRuJ2E) (+500 members) [September 2021 - ???];
+- Creator of the [Horuki](https://discord.gg/t2KDpzeu8w) Discord Server (+500 members) [December 2021 - ???];
+- Stuff of 
+- Moderator of the [Mappa Discord Italia](https://discord.gg/zRRuJ2E) Discord Server (+500 members) [September 2021 - ???];
 - Bug Researcher for [Discord](https://discord.gg/discord-testers)(Bug Segnalati: 3 | Bug Approvati: 2) [Since July 2020 - ???];
-- Creator of the Bot [Wumps](https://discord.com/oauth2/authorize?client_id=729701120854982706&scope=bot&permissions=2452750167) (+500 servers);
-- Owner of the [Tea Time Anime BOT](https://discord.com/oauth2/authorize?client_id=715708694855417896&scope=bot%20applications.commands&permissions=2147483647) (+390 servers);
-- Owner of the [Friday Night Funkin' BOT](https://discord.com/oauth2/authorize?client_id=840217202862325780&scope=bot&permissions=37080640) (+1910 servers);
-- Creator of the Bot [Toshiiro](https://discord.com/oauth2/authorize?client_id=713844523247075470&scope=bot&permissions=2452750167) (private);
-- Creator of the Bot [Harris](https://discord.com/oauth2/authorize?client_id=752502711261462588&scope=bot&permissions=2452750167) (private);
-- Creator of the Bot [Springle](https://discord.com/oauth2/authorize?client_id=784915674828767282&scope=bot&permissions=2452750167) (private).
+- Creator of the [Wumps](https://discord.com/oauth2/authorize?client_id=729701120854982706&scope=bot&permissions=2452750167) Bot (+500 servers);
+- Owner of the [Tea Time Anime BOT](https://discord.com/oauth2/authorize?client_id=715708694855417896&scope=bot%20applications.commands&permissions=2147483647) Bot (+390 servers);
+- Owner of the [Friday Night Funkin' BOT](https://discord.com/oauth2/authorize?client_id=840217202862325780&scope=bot&permissions=37080640) Bot (+1910 servers);
+- Creator of the [Toshiiro](https://discord.com/oauth2/authorize?client_id=713844523247075470&scope=bot&permissions=2452750167) (private);
+- Creator of the [Harris](https://discord.com/oauth2/authorize?client_id=752502711261462588&scope=bot&permissions=2452750167) (private);
+- Creator of the [Springle](https://discord.com/oauth2/authorize?client_id=784915674828767282&scope=bot&permissions=2452750167) (private).
 
 Abandoned, Transferred Or Inactive Projects In Reality:
 - Animator for the parish of [Santa Maria Maddalena](https://www.arcidiocesi.vc.it/vicarie/vercelli/parrocchia-santa-maria-maddalena/) [2017 - 2020];
