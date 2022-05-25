@@ -18,7 +18,7 @@ Active Projects In Reality:
 - Volunteer for __[Comunità Di Sant'Egidio](https://www.santegidio.org/)__.
 
 Virtual Active Projects:
-- Creator of the __[Horuki](https://discord.gg/t2KDpzeu8w)__ Discord Server (+500 members) [December 2021 - ???];
+- Creator of the __[Horuki](https://discord.gg/jZwbbdQVFr)__ Discord Server (+500 members) [December 2021 - ???];
 - Staff of the __[Earth Community](https://discord.gg/HTHqGzcyzA)__ Discord Server (+7300 members) [February 2022 - ???];
 - Moderator of the __[Mappa Discord Italia](https://discord.gg/zRRuJ2E)__ Discord Server (+500 members) [September 2021 - ???];
 - Creator of the __[Wumps](https://discord.com/oauth2/authorize?client_id=729701120854982706&scope=bot&permissions=2452750167)__ Bot (+520 servers);
