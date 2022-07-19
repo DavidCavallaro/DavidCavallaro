@@ -1,66 +1,63 @@
-__Index__: [Personal informations](https://github.com/DavidCavallaro#personal-informations) | [Curriculum](https://github.com/DavidCavallaro#curriculum) | [Link](https://github.com/DavidCavallaro#link) | [Languages and Tools](https://github.com/DavidCavallaro#languages-and-tools-i-use) |  [Stats](https://github.com/DavidCavallaro#stats) | [Trophies](https://github.com/DavidCavallaro#trophies) | [Contact](https://github.com/DavidCavallaro#contact)
+__Index__: [Personal informations](https://github.com/DavidCavallaro#informazioni-personali) | [Curriculum](https://github.com/DavidCavallaro#curriculum) | [Link](https://github.com/DavidCavallaro#link) | [Languages and Tools](https://github.com/DavidCavallaro#languages-and-tools-i-use) |  [Stats](https://github.com/DavidCavallaro#stats) | [Trophies](https://github.com/DavidCavallaro#trophies) | [Contact](https://github.com/DavidCavallaro#contact)
 
-### Hello! I'm David but you can call me Kyoko 👋
-<h2 align="left">Personal informations:</h2>
+### Ciao! Io sono David! 👋
+<h2 align="left">Informazioni Personali:</h2>
 
-- Name and surname: David Cavallaro;
-- Age: 18;
-- Birthday: 27 September;
-- Born in: Piemonte, Italy;
-- Resident in: Piemonte, Italy;
-- Attending school: High School of Music and Choreutics.
+- Nome e Cognome: David Cavallaro;
+- Età: 18;
+- Nato il: 27 settembre 2003;
+- Nato e Residente in: Piemonte, Italy;
+- Professione: Tecnico del Suono.
 
 <h2 align="left">Curriculum:</h2>
 
-Active Projects In Reality:
+Attività nella vita reale:
 
-- Collaborator for the __[Viotti Festival](http://www.viottifestival.it/_dynapage/index_Home.asp?pageId=78&primopiano=1)__ concert season 2020-2021 and 2021-2022;
-- Volunteer for __[Comunità Di Sant'Egidio](https://www.santegidio.org/)__.
+- Collaboratore per la stagione concertistica 2020-2021 e 2021-2022 del __[Viotti Festival](http://www.viottifestival.it/_dynapage/index_Home.asp?pageId=78&primopiano=1)__;
+- Volontario per la __[Comunità Di Sant'Egidio](https://www.santegidio.org/)__.
 
-Virtual Active Projects:
-- Creator of the __[Horuki](https://discord.gg/jZwbbdQVFr)__ Discord Server (+500 members) [December 2021 - ???];
-- Staff of the __[Earth Community](https://discord.gg/HTHqGzcyzA)__ Discord Server (+7300 members) [February 2022 - ???];
-- Moderator of the __[Mappa Discord Italia](https://discord.gg/zRRuJ2E)__ Discord Server (+500 members) [September 2021 - ???];
-- Creator of the __[Wumps](https://discord.com/oauth2/authorize?client_id=729701120854982706&scope=bot&permissions=2452750167)__ Bot (+520 servers);
-- Owner of the __[Tea Time Anime BOT](https://discord.com/oauth2/authorize?client_id=715708694855417896&scope=bot%20applications.commands&permissions=2147483647)__ Bot (+360 servers);
-- Owner of the __[Friday Night Funkin' BOT](https://discord.com/oauth2/authorize?client_id=840217202862325780&scope=bot&permissions=37080640)__ Bot (+2040 servers);
-- Creator of the __[Toshiiro](https://discord.com/oauth2/authorize?client_id=713844523247075470&scope=bot&permissions=2452750167)__ Bot (private);
-- Creator of the __[Harris](https://discord.com/oauth2/authorize?client_id=752502711261462588&scope=bot&permissions=2452750167)__ Bot (private);
-- Creator of the __[Springle](https://discord.com/oauth2/authorize?client_id=784915674828767282&scope=bot&permissions=2452750167)__ Bot (private).
+Attività virtuali:
+- Creatore del server Discord __[Horuki](https://discord.gg/jZwbbdQVFr)__ (+500 membri) [Dicembre 2021 - Marzo 2022];
+- Modeartore del server Discord __[Earth Community](https://discord.gg/HTHqGzcyzA)__ (+7300 membri) [Febbraio 2022 - ???];
+- Moderatore del server Discord __[Mappa Discord Italia](https://discord.gg/zRRuJ2E)__ (+500 membri) [Settembre 2021 - ???];
+- Creatore del Bot Discord __[Wumps](https://discord.com/oauth2/authorize?client_id=729701120854982706&scope=bot&permissions=2452750167)__ (+520 servers);
+- Proprietario del Bot Discord __[Tea Time Anime BOT](https://discord.com/oauth2/authorize?client_id=715708694855417896&scope=bot%20applications.commands&permissions=2147483647)__ (+360 servers);
+- Proprietario del Bot Discord __[Friday Night Funkin' BOT](https://discord.com/oauth2/authorize?client_id=840217202862325780&scope=bot&permissions=37080640)__ (+2040 servers);
+- Creatore del Bot Discord __[Toshiiro](https://discord.com/oauth2/authorize?client_id=713844523247075470&scope=bot&permissions=2452750167)__ (privato);
+- Creatore del Bot Discord __[Harris](https://discord.com/oauth2/authorize?client_id=752502711261462588&scope=bot&permissions=2452750167)__ (privato);
+- Creatore del Bot Discord __[Springle](https://discord.com/oauth2/authorize?client_id=784915674828767282&scope=bot&permissions=2452750167)__ (privato).
 
-Abandoned, Transferred Or Inactive Projects In Reality:
-- Animator for the parish of __[Santa Maria Maddalena](https://www.arcidiocesi.vc.it/vicarie/vercelli/parrocchia-santa-maria-maddalena/)__ [2017 - 2020];
-- Animator for the parish of __[San Giuseppe](https://www.arcidiocesi.vc.it/vicarie/vercelli/parrocchia-san-giuseppe/)__ [2017 - 2020];
-- Concert performer of the 2021 edition of the International Early Music Course of the __[Accademia del Ricercare](https://accademiadelricercare.com/)__ [01 August 2021];
-- First traversiere in the piece __[Grillen-Symphonie by Georg Philipp Telemann](https://youtu.be/PuFJ8VmwsOI)__ played in Romano Canavese [01 August 2021].
+Attività passate nella vita reale:
+- Animatore per la parrocchia di __[Santa Maria Maddalena](https://www.arcidiocesi.vc.it/vicarie/vercelli/parrocchia-santa-maria-maddalena/)__ [2017 - 2020];
+- Animatore per la parrocchia di __[San Giuseppe](https://www.arcidiocesi.vc.it/vicarie/vercelli/parrocchia-san-giuseppe/)__ [2017 - 2020];
+- Primo flauto traversiere durante l'edizione 2021 del Corso Internazionale Di Musica dell'__[Accademia del Ricercare](https://accademiadelricercare.com/) ([Grillen-Symphonie di Georg Philipp Telemann](https://youtu.be/PuFJ8VmwsOI))__ [01 Agosto 2021].
 
-Virtual Abandoned, Transferred Or Inactive Projects:
-- Creator for the __Chill Vibes Discord Server__ (+2000 members) [July 2021 - December 2021];
-- Owner for the __ChillWumpsHouse__ Discord Server (+1300 members) [June 2020 - April 2021];
-- Owner for the __GamingCommunityItalian__ Discord Server (+900 members) [May 2020 - August 2020];
-- Co-Founder of the __Coldsea ℓꪮ𝒇𝓲 ♡__ (+1700 members) Discord Server [January 2022 - February 2022];
-- Creator and owner of the __Evostack Forum__ [January 2021 - July 2021];
-- Head of the digital organization __[Chill Vibes](https://github.com/Chill-Vabes)__ [July 2021 - December 2021];
-- Executive Admin for __[TheZoo Community](https://discord.gg/c2mkpPAw8J)__ Discord server (+12700 members) [February 2021 - July 2021];
-- Admin for the Bot Discord __Cybotlist__ [October 2021 - December 2021]
-- Discord moderator of __[InfinityBotList](https://botlist.site)__ | __[GitHub](https://github.com/InfinityBotList)__; [June 2021 - August 2021]
-- Developer for the Discord __[KuraiK](https://discord.gg/PW4MAvhMRe)__ server (+1300 members) [June 2021 - July 2021];
-- Helper for Discord __[4Tuna | eSports](https://discord.gg/K2e5fd6Hyn)__ server (+1700 members) [September 2021 - October 2021];
-- Helper, Moderator, Admin and Administrator for the Discord __[SpaceHub](https://discord.gg/nN9FW5zhvM)__ server (+5000 members) [February 2019 - April 2021];
-- Helper, Moderator, Admin, Administrator and Owner for __PokèWorld__ Discord Server(+800 members) [June 2019 - November 2019];
-- Helper, Moderator and Staff Manager for the __EthyriumZone__ Discord server (+400 members) [April 2019 - June 2019];
-- Helper, Admin and Owner for the __KalyNetwork__ Minecraft Server (+25 online players) [February 2020 - April 2020];
-- Informant for the __[Favij's Sgabuzzino](https://discord.gg/favij)__ Discord Server (+15200 members) [February 2021 - July 2021];
-- Informant for the __[Lo Stormo di Sbriser](https://discord.gg/sbriser)__ Discord Server (+34500 members) [February 2021 - July 2021];
-- Developer and Owner for the Minecraft SkyFire server;
-- Moderator and Pluginner for the __[4Tuna | eSports](https://discord.gg/K2e5fd6Hyn)__ Discord & Minecraft Server(+1700 members) [June 2021 - July 2021];
-- Helper, Moderator, Admin for the __[ImperialCraft](https://www.minecraft-italia.it/server/imperialcraft)__ Minecraft server (+50 online players) [January 2021 - March 2021];
-- Moderator, Pluginner and Mode Manager for the __[MineJoJo](https://www.minecraft-italia.it/server/minejojo)__ Minecraft server (+20 online players) [September 2021 - November 2021];
-- ChatMod for the __[RubyCraft](https://www.minecraft-italia.it/server/rubycraft)__ Minecraft server (+40 online players) [February 2021 - March 2021];
-- Moderator for the __[psycocat_](https://www.twitch.tv/psycocat_)__ Twitch Channel [2017 - 2019];
-- Moderator for the __[Gayasai](https://www.twitch.tv/gayasai)__ Twitch Channel [2019 - 2020];
-- Moderator for the __[XpazzoX](https://www.twitch.tv/xpazzox_official)__ Twitch Channel [2017 - 2018];
-- Moderator for the __[Ald01ne](https://www.twitch.tv/ald01ne)__ Twitch Channel [2017 - 2019].
+Attività passate virtuali
+- Creatore del server Discord __Chill Vibes__ (+2000 membri) [Luglio 2021 - Dicembre 2021];
+- Creatore  del server Discord __ChillWumpsHouse__ (+1300 membri) [Luglio 2020 - Aprile 2021];
+- CEO del server Discord __GamingCommunityItalian__ (+900 membri) [Maggio 2020 - Agosto 2020];
+- CEO del server Discord __Coldsea ℓꪮ𝒇𝓲 ♡__ (+1700 membri) [Gennaio 2022 - Febbraio 2022];
+- Creatore del forum __Evostack Forum__ [Gennaio 2021 - Luglio 2021];
+- Possessore dell'organizzazione virtuale __[Chill Vibes](https://github.com/Chill-Vabes)__ [Luglio 2021 - Dicembre 2021];
+- Executive Admin  del server Discord __[TheZoo Community](https://discord.gg/c2mkpPAw8J)__ (+12700 membri) [Febbraio 2021 - Luglio 2021];
+- Admin  del server Discord e lista Bot __Cybotlist__ [October 2021 - membri 2021]
+- Moderatore e Reviewer del server Discord __[InfinityBotList](https://botlist.site)__ | __[GitHub](https://github.com/InfinityBotList)__; [Luglio 2021 Agosto 2021]
+- Developer del server Discord __[KuraiK](https://discord.gg/PW4MAvhMRe)__ server (+1300 membri) [Giugno 2021 - Luglio 2021];
+- Helper e Pluginner del server Discord e Minecraft __[4Tuna | eSports](https://discord.gg/K2e5fd6Hyn)__ server (+1700 membri) [Giugno 2021 - Ottobre 2021];
+- Helper, Moderatore, Admin e Amministratore del server Discord __[SpaceHub](https://discord.gg/nN9FW5zhvM)__ (+5000 membri) [Febbraio 2019 - Aprile 2021];
+- Helper, Moderatore, Admin e Amministratore del server Discord __PokèWorld__(+800 membri) [Giugno 2019 - Novembre 2019];
+- Helper, Moderator e Staff Manager del server Discord __EthyriumZone__ (+400 membri) [April 2019 - June 2019];
+- Helper, Admin e Creatore del server Minecraft __KalyNetwork__ (+25 online players) [February 2020 - April 2020];
+- Informatore del server Discord __[Favij's Sgabuzzino](https://discord.gg/favij)__ (+15200 membri) [Febbraio 2021 - Luglio 2021];
+- Informatore del server Discord __[Lo Stormo di Sbriser](https://discord.gg/sbriser)__ (+34500 membri) [Febbraio 2021 - Luglio 2021];
+- Developer e Creatore del server Minecraft SkyFire;
+- Helper, Moderatore, Pluginner e Admin del server Minecraft __[ImperialCraft](https://www.minecraft-italia.it/server/imperialcraft)__ (+50 online players) [Gennaio 2021 - Marzo 2021];
+- Moderatore, Pluginner e Gestore Modalità del server Minecraft __[MineJoJo](https://www.minecraft-italia.it/server/minejojo)__ (+20 online players) [Settembre 2021 - Novembre 2021];
+- ChatMod del server Minecraft __[RubyCraft](https://www.minecraft-italia.it/server/rubycraft)__ (+40 online players) [Febbraio 2021 - Marzo 2021];
+- Moderatore del canale Twitch __[psycocat_](https://www.twitch.tv/psycocat_)__ [2017 - 2019];
+- Moderatore del canale Twitch __[Gayasai](https://www.twitch.tv/gayasai)__ [2019 - 2020];
+- Moderatore del canale Twitch __[XpazzoX](https://www.twitch.tv/xpazzox_official)__ [2017 - 2018];
+- Moderatore del canale Twitch __[Ald01ne](https://www.twitch.tv/ald01ne)__ [2017 - 2019].
 
 Merits:
 - Winner of a traversiere flute during the international course organized by __[Accademia del Ricercare](https://accademiadelricercare.com/)__. (sources: [La Sentinella del Canavese](https://lasentinella.gelocal.it/ivrea/cronaca/2021/08/06/news/dai-corsi-di-musica-antica-ecco-i-giovani-piu-promettenti-1.40576079) - [CanaveseLocal](https://www.canaveselocal.it/2021/08/26/romano-canavese-corso-internazionale-di-musica-antica-i-vincitori/?utm_source=rss&utm_medium=rss&utm_campaign=romano-canavese-corso-internazionale-di-musica-antica-i-vincitori) - [QC Quotidiano del Canavese](https://www.quotidianocanavese.it/cultura-eventi/romano-canavese-corso-internazionale-di-musica-antica-assegnate-le-borse-di-studio-34338)) [01 August 2021];
