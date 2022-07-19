@@ -1,4 +1,4 @@
-__Index__: [Personal informations](https://github.com/DavidCavallaro#informazioni-personali) | [Curriculum](https://github.com/DavidCavallaro#curriculum) | [Link](https://github.com/DavidCavallaro#link) | [Languages and Tools](https://github.com/DavidCavallaro#languages-and-tools-i-use) |  [Stats](https://github.com/DavidCavallaro#stats) | [Trophies](https://github.com/DavidCavallaro#trophies) | [Contact](https://github.com/DavidCavallaro#contact)
+__Index__: [Personal informations](https://github.com/DavidCavallaro#informazioni-personali) | [Curriculum](https://github.com/DavidCavallaro#curriculum) | [Link](https://github.com/DavidCavallaro#link) | [Linguaggi e Tools](https://github.com/DavidCavallaro#linguaggi-e-tools-utilizzati) |  [Stats](https://github.com/DavidCavallaro#stats) | [Trophies](https://github.com/DavidCavallaro#trophies) | [Contatti](https://github.com/DavidCavallaro#contatti)
 
 ### Ciao! Io sono David! 👋
 <h2 align="left">Informazioni Personali:</h2>
@@ -17,7 +17,7 @@ Attività nella vita reale:
 - Volontario per la __[Comunità Di Sant'Egidio](https://www.santegidio.org/)__.
 
 Attività virtuali:
-- Creatore del server Discord __[Horuki](https://discord.gg/jZwbbdQVFr)__ (+500 membri) [Dicembre 2021 - Marzo 2022];
+- Moderatore del server Discord __[O R A N](https://discord.gg/uhPQAwTzgm)__ (-100 membri) [Luglio 2022 - ???];
 - Modeartore del server Discord __[Earth Community](https://discord.gg/HTHqGzcyzA)__ (+7300 membri) [Febbraio 2022 - ???];
 - Moderatore del server Discord __[Mappa Discord Italia](https://discord.gg/zRRuJ2E)__ (+500 membri) [Settembre 2021 - ???];
 - Creatore del Bot Discord __[Wumps](https://discord.com/oauth2/authorize?client_id=729701120854982706&scope=bot&permissions=2452750167)__ (+520 servers);
@@ -33,6 +33,7 @@ Attività passate nella vita reale:
 - Primo flauto traversiere durante l'edizione 2021 del Corso Internazionale Di Musica dell'__[Accademia del Ricercare](https://accademiadelricercare.com/) ([Grillen-Symphonie di Georg Philipp Telemann](https://youtu.be/PuFJ8VmwsOI))__ [01 Agosto 2021].
 
 Attività passate virtuali
+- Creatore del server Discord __Horuki_ (+500 membri) [Dicembre 2021 - Marzo 2022];
 - Creatore del server Discord __Chill Vibes__ (+2000 membri) [Luglio 2021 - Dicembre 2021];
 - Creatore  del server Discord __ChillWumpsHouse__ (+1300 membri) [Luglio 2020 - Aprile 2021];
 - CEO del server Discord __GamingCommunityItalian__ (+900 membri) [Maggio 2020 - Agosto 2020];
@@ -59,9 +60,9 @@ Attività passate virtuali
 - Moderatore del canale Twitch __[XpazzoX](https://www.twitch.tv/xpazzox_official)__ [2017 - 2018];
 - Moderatore del canale Twitch __[Ald01ne](https://www.twitch.tv/ald01ne)__ [2017 - 2019].
 
-Merits:
-- Winner of a traversiere flute during the international course organized by __[Accademia del Ricercare](https://accademiadelricercare.com/)__. (sources: [La Sentinella del Canavese](https://lasentinella.gelocal.it/ivrea/cronaca/2021/08/06/news/dai-corsi-di-musica-antica-ecco-i-giovani-piu-promettenti-1.40576079) - [CanaveseLocal](https://www.canaveselocal.it/2021/08/26/romano-canavese-corso-internazionale-di-musica-antica-i-vincitori/?utm_source=rss&utm_medium=rss&utm_campaign=romano-canavese-corso-internazionale-di-musica-antica-i-vincitori) - [QC Quotidiano del Canavese](https://www.quotidianocanavese.it/cultura-eventi/romano-canavese-corso-internazionale-di-musica-antica-assegnate-le-borse-di-studio-34338)) [01 August 2021];
-- Bug Researcher for __[Discord](https://discord.gg/discord-testers)__ (Bug Reported: 3 | Bug Aproved: 2) [Since July 2020 - ???].
+Meriti:
+- Vincitore di un flauto traversiere durante il  __[Accademia del Ricercare](https://accademiadelricercare.com/)__. (fonti: [La Sentinella del Canavese](https://lasentinella.gelocal.it/ivrea/cronaca/2021/08/06/news/dai-corsi-di-musica-antica-ecco-i-giovani-piu-promettenti-1.40576079) - [CanaveseLocal](https://www.canaveselocal.it/2021/08/26/romano-canavese-corso-internazionale-di-musica-antica-i-vincitori/?utm_source=rss&utm_medium=rss&utm_campaign=romano-canavese-corso-internazionale-di-musica-antica-i-vincitori) - [QC Quotidiano del Canavese](https://www.quotidianocanavese.it/cultura-eventi/romano-canavese-corso-internazionale-di-musica-antica-assegnate-le-borse-di-studio-34338)) [01 Agosto 2021];
+- Bugo Hunter __[Discord](https://discord.gg/discord-testers)__ (Bug Reported: 3 | Bug Aproved: 2) [Da Luglio 2020 - Dicembre 2021].
 
 <h2 align="left">Link:</h2>
 
@@ -72,7 +73,7 @@ Merits:
 - __[Harris](https://discord.com/oauth2/authorize?client_id=752502711261462588&scope=bot&permissions=2452750167)__ (private);
 - __[Springle](https://discord.com/oauth2/authorize?client_id=784915674828767282&scope=bot&permissions=2452750167)__ (private).
 
-<h2 align="left">Languages and tools I use:</h2>
+<h2 align="left">Linguaggi e Tools Utilizzati:</h2>
 
 - <a href="https://canvasjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> CSS;
 - <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> EXPRESS.JS;
@@ -91,12 +92,13 @@ Merits:
 
 <img src="https://github-profile-trophy.vercel.app/?username=DavidCavallaro&theme=dracula">
 
-<h2 align="left">Contact:</h2>
+<h2 align="left">Contatti:</h2>
 
-- Discord: @iosonodavid#3885;
+- Discord: @iosonodavid_#3885;
 - Telegram: [@iosonodavid3885](https://t.me/iosonodavid3885);
-- GitHub: [DavidCavallaro](https://github.com/DavidCavallaro).
+- GitHub: [DavidCavallaro](https://github.com/DavidCavallaro);
+- Instagram: [iosonodavid__](https://instagram.com/iosonodavid__/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=DavidCavallaro&color=blueviolet) | ![Profile Followers](https://img.shields.io/badge/Followers-10-blueviolet) | ![Profile Following](https://img.shields.io/badge/Following-14-blueviolet) | ![Profile Stars](https://img.shields.io/badge/Stars-23-blueviolet)
+![Visite al profilo](https://komarev.com/ghpvc/?username=DavidCavallaro&color=blueviolet) | ![Followers](https://img.shields.io/badge/Followers-10-blueviolet) | ![Seguiti](https://img.shields.io/badge/Following-14-blueviolet) | ![Profile Stars](https://img.shields.io/badge/Stars-23-blueviolet)
 
-[![Discord](https://media.discordapp.net/attachments/808798373543936000/917154595699056640/standard_2.gif)](https://discord.gg/t2KDpzeu8w)
+[![Discord](https://media.discordapp.net/attachments/808798373543936000/917154595699056640/standard_2.gif)](https://discord.gg/uhPQAwTzgm)
