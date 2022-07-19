@@ -66,9 +66,9 @@ Meriti:
 
 <h2 align="left">Link:</h2>
 
-- __[Friday Night Funkin' BOT](https://discord.com/oauth2/authorize?client_id=840217202862325780&scope=bot&permissions=37080640)__ (+1920 servers);
-- __[Wumps](https://discord.com/oauth2/authorize?client_id=729701120854982706&scope=bot&permissions=2452750167)__ (+530 servers) [CLOSED. INFO [HERE](https://github.com/orgs/Chill-Vabes/projects/2)];
-- __[Tea Time Anime BOT](https://discord.com/oauth2/authorize?client_id=715708694855417896&scope=bot%20applications.commands&permissions=2147483647)__ (+360 servers);
+- __[Friday Night Funkin' BOT](https://discord.com/oauth2/authorize?client_id=840217202862325780&scope=bot%20applications.commands&permissions=534726961216)__ (+1920 servers);
+- __[Wumps](https://discord.com/oauth2/authorize?client_id=729701120854982706&permissions=446948699239&scope=bot+applications.commands)__ (+530 servers) [CLOSED. INFO [HERE](https://github.com/orgs/Chill-Vabes/projects/2)];
+- __[Tea Time Anime BOT](https://discord.com/oauth2/authorize?client_id=715708694855417896&scope=bot%20applications.commands&permissions=1495960779143)__ (+360 servers);
 - __[Toshiiro](https://discord.com/oauth2/authorize?client_id=713844523247075470&scope=bot&permissions=2452750167)__ (private);
 - __[Harris](https://discord.com/oauth2/authorize?client_id=752502711261462588&scope=bot&permissions=2452750167)__ (private);
 - __[Springle](https://discord.com/oauth2/authorize?client_id=784915674828767282&scope=bot&permissions=2452750167)__ (private).
