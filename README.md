@@ -101,4 +101,4 @@ Meriti:
 
 ![Visite al profilo](https://komarev.com/ghpvc/?username=DavidCavallaro&color=blueviolet) | ![Followers](https://img.shields.io/badge/Followers-10-blueviolet) | ![Seguiti](https://img.shields.io/badge/Following-14-blueviolet) | ![Profile Stars](https://img.shields.io/badge/Stars-23-blueviolet)
 
-[![Discord](https://media.discordapp.net/attachments/808798373543936000/917154595699056640/standard_2.gif)](https://discord.gg/uhPQAwTzgm)
+[![Discord](https://i.imgur.com/SAkgYLO.gif)](https://discord.gg/uhPQAwTzgm)
