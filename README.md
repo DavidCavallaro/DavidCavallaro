@@ -21,8 +21,7 @@ Attività virtuali:
 - Modeartore del server Discord __[Earth Community](https://discord.gg/HTHqGzcyzA)__ (+7300 membri) [Febbraio 2022 - ???];
 - Moderatore del server Discord __[Mappa Discord Italia](https://discord.gg/zRRuJ2E)__ (+500 membri) [Settembre 2021 - ???];
 - Proprietario del Bot Discord __[Tea Time Anime BOT](https://discord.com/oauth2/authorize?client_id=715708694855417896&scope=bot%20applications.commands&permissions=2147483647)__ (+360 servers);
-- Proprietario del Bot Discord __[Friday Night Funkin' BOT](https://discord.com/oauth2/authorize?client_id=840217202862325780&scope=bot&permissions=37080640)__ (+2020 servers);
-- Creatore del Bot Discord __[Springle](https://discord.com/oauth2/authorize?client_id=784915674828767282&scope=bot&permissions=2452750167)__ (privato).
+- Proprietario del Bot Discord __[Friday Night Funkin' BOT](https://discord.com/oauth2/authorize?client_id=840217202862325780&scope=bot&permissions=37080640)__ (+2020 servers).
 
 Attività passate nella vita reale:
 - Animatore per la parrocchia di __[Santa Maria Maddalena](https://www.arcidiocesi.vc.it/vicarie/vercelli/parrocchia-santa-maria-maddalena/)__ [2017 - 2020];
