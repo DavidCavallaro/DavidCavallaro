@@ -75,7 +75,7 @@ Meriti:
 
 <h2 align="left">Linguaggi e Tools Utilizzati:</h2>
 
-
+<a href="https://canvasjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> CSS 
 
 
 <h2 align="left">Stats:</h2>
