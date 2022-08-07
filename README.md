@@ -20,7 +20,6 @@ Attività virtuali:
 - Moderatore del server Discord __[O R A N](https://discord.gg/uhPQAwTzgm)__ (-100 membri) [Luglio 2022 - ???];
 - Modeartore del server Discord __[Earth Community](https://discord.gg/HTHqGzcyzA)__ (+7300 membri) [Febbraio 2022 - ???];
 - Moderatore del server Discord __[Mappa Discord Italia](https://discord.gg/zRRuJ2E)__ (+500 membri) [Settembre 2021 - ???];
-- Creatore del Bot Discord __[Wumps](https://discord.com/oauth2/authorize?client_id=729701120854982706&scope=bot&permissions=2452750167)__ (+520 servers);
 - Proprietario del Bot Discord __[Tea Time Anime BOT](https://discord.com/oauth2/authorize?client_id=715708694855417896&scope=bot%20applications.commands&permissions=2147483647)__ (+360 servers);
 - Proprietario del Bot Discord __[Friday Night Funkin' BOT](https://discord.com/oauth2/authorize?client_id=840217202862325780&scope=bot&permissions=37080640)__ (+2020 servers);
 - Creatore del Bot Discord __[Toshiiro](https://discord.com/oauth2/authorize?client_id=713844523247075470&scope=bot&permissions=2452750167)__ (privato);
