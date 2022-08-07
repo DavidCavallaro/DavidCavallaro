@@ -83,7 +83,7 @@ Meriti:
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidCavallaro&show_icons=true&theme=radical)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DavidCavallaro&bg_color=120816&color=c45a7f&line=a9195f&point=ddbe22&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DavidCavallaro&bg_color=120816&color=c45a7f&line=a9195f&point=ddbe22&area=true&hide_border=true)](https://github.com/DavidCavallaro)
 
 <h2 align="left">Trophies:</h2>
 
