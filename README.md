@@ -75,7 +75,7 @@ Meriti:
 
 <h2 align="left">Linguaggi e Tools Utilizzati:</h2>
 
-<a href="https://canvasjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> CSS 
+<a href="https://canvasjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> CSS <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> EXPRESS.JS
 
 
 <h2 align="left">Stats:</h2>
