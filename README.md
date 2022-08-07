@@ -32,7 +32,7 @@ Attività passate nella vita reale:
 - Animatore per la parrocchia di __[San Giuseppe](https://www.arcidiocesi.vc.it/vicarie/vercelli/parrocchia-san-giuseppe/)__ [2017 - 2020];
 - Primo flauto traversiere durante l'edizione 2021 del Corso Internazionale Di Musica dell'__[Accademia del Ricercare](https://accademiadelricercare.com/) ([Grillen-Symphonie di Georg Philipp Telemann](https://youtu.be/PuFJ8VmwsOI))__ [01 Agosto 2021].
 
-Attività passate virtuali
+Attività passate virtuali:
 - Creatore del server Discord __Horuki_ (+500 membri) [Dicembre 2021 - Marzo 2022];
 - Creatore del server Discord __Chill Vibes__ (+2000 membri) [Luglio 2021 - Dicembre 2021];
 - Creatore  del server Discord __ChillWumpsHouse__ (+1300 membri) [Luglio 2020 - Aprile 2021];
