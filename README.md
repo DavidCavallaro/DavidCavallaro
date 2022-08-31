@@ -13,7 +13,7 @@ __Index__: [Personal informations](https://github.com/DavidCavallaro#informazion
 
 Attività nella vita reale:
 
-- Collaboratore per la stagione concertistica 2020-2021 e 2021-2022 del __[Viotti Festival](http://www.viottifestival.it/_dynapage/index_Home.asp?pageId=78&primopiano=1)__;
+- Collaboratore per la stagione concertistica 2020-2021, 2021-2022 e 2022-2023 del __[Viotti Festival](http://www.viottifestival.it/_dynapage/index_Home.asp?pageId=78&primopiano=1)__;
 - Volontario per la __[Comunità Di Sant'Egidio](https://www.santegidio.org/)__.
 
 Attività virtuali:
