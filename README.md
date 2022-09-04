@@ -1,4 +1,4 @@
-__Index__: [Personal informations](https://github.com/DavidCavallaro#informazioni-personali) | [Curriculum](https://github.com/DavidCavallaro#curriculum) | [Link](https://github.com/DavidCavallaro#link) | [Linguaggi e Tools](https://github.com/DavidCavallaro#linguaggi-e-tools-utilizzati) |  [Stats](https://github.com/DavidCavallaro#stats) | [Trophies](https://github.com/DavidCavallaro#trophies) | [Contatti](https://github.com/DavidCavallaro#contatti)
+__Index__: [Informazioni Personali](https://github.com/DavidCavallaro#informazioni-personali) | [Curriculum](https://github.com/DavidCavallaro#curriculum) | [Link](https://github.com/DavidCavallaro#link) | [Linguaggi e Tools](https://github.com/DavidCavallaro#linguaggi-e-tools-utilizzati) |  [Statistiche](https://github.com/DavidCavallaro#stats) | [Trofei](https://github.com/DavidCavallaro#trophies) | [Contatti](https://github.com/DavidCavallaro#contatti)
 
 ### Ciao! Io sono David! 👋
 <h2 align="left">Informazioni Personali:</h2>
