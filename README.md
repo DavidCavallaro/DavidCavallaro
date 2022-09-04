@@ -84,7 +84,7 @@ Meriti:
 <h2 align="left">Trofei:</h2>
 
 <img src="https://github-profile-trophy.vercel.app/?username=DavidCavallaro&theme=dracula">
-<a href="https://10fastfingers.com/typing-test/italian"><img src="http://img.10fastfingers.com/badge/typing-test_20_DL.png" alt="Typing Test" /></a><p>Visit the <a href="https://10fastfingers.com/typing-test/italian">Typing Test</a> and try!</p>
+<a href="https://10fastfingers.com/typing-test/italian"><img src="http://img.10fastfingers.com/badge/typing-test_20_DL.png" alt="Typing Test" /></a>
 
 <h2 align="left">Contatti:</h2>
 
