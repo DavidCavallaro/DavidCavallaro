@@ -4,7 +4,7 @@ __Index__: [Informazioni Personali](https://github.com/DavidCavallaro#informazio
 <h2 align="left">Informazioni Personali:</h2>
 
 - Nome e Cognome: David Cavallaro;
-- Età: 18;
+- Età: 19;
 - Nato il: 27 settembre 2003;
 - Nato e Residente in: Piemonte, Italy;
 - Professione: Tecnico del Suono.
