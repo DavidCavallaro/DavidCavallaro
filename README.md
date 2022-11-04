@@ -13,13 +13,15 @@ __Index__: [Informazioni Personali](https://github.com/DavidCavallaro#informazio
 
 Attività nella vita reale:
 
-- Collaboratore per la stagione concertistica 2020-2021, 2021-2022 e 2022-2023 del __[Viotti Festival](http://www.viottifestival.it/_dynapage/index_Home.asp?pageId=78&primopiano=1)__;
+- Dipendente per la stagione concertistica 2020-2021, 2021-2022 e 2022-2023 del __[Viotti Festival](http://www.viottifestival.it/_dynapage/index_Home.asp?pageId=78&primopiano=1)__;
+- Libero professionista;
 - Volontario per la __[Comunità Di Sant'Egidio](https://www.santegidio.org/)__.
 
 Attività virtuali:
-- Moderatore del server Discord __[O R A N](https://discord.gg/uhPQAwTzgm)__ (-100 membri) [Luglio 2022 - ???];
+- Moderatore del server Discord __[O R A N](https://discord.gg/uhPQAwTzgm)__ (+3000 membri) [Luglio 2022 - ???];
 - Modeartore del server Discord __[Earth Community](https://discord.gg/HTHqGzcyzA)__ (+7300 membri) [Febbraio 2022 - ???];
 - Moderatore del server Discord __[Mappa Discord Italia](https://discord.gg/zRRuJ2E)__ (+500 membri) [Settembre 2021 - ???];
+- Moderatore del server Discord __[The Kingdom Of Mario](https://discord.gg/MscnY7kFpU)__ (+3000 membri) [Marzo 2021 - ???];
 - Proprietario del Bot Discord __[Tea Time Anime BOT](https://discord.com/oauth2/authorize?client_id=715708694855417896&scope=bot%20applications.commands&permissions=2147483647)__ (+360 servers);
 - Proprietario del Bot Discord __[Friday Night Funkin' BOT](https://discord.com/oauth2/authorize?client_id=840217202862325780&scope=bot&permissions=37080640)__ (+2020 servers).
 
@@ -58,7 +60,7 @@ Attività passate virtuali:
 
 Meriti:
 - Vincitore di un flauto traversiere durante il  __[Accademia del Ricercare](https://accademiadelricercare.com/)__. (fonti: [La Sentinella del Canavese](https://lasentinella.gelocal.it/ivrea/cronaca/2021/08/06/news/dai-corsi-di-musica-antica-ecco-i-giovani-piu-promettenti-1.40576079) - [CanaveseLocal](https://www.canaveselocal.it/2021/08/26/romano-canavese-corso-internazionale-di-musica-antica-i-vincitori/?utm_source=rss&utm_medium=rss&utm_campaign=romano-canavese-corso-internazionale-di-musica-antica-i-vincitori) - [QC Quotidiano del Canavese](https://www.quotidianocanavese.it/cultura-eventi/romano-canavese-corso-internazionale-di-musica-antica-assegnate-le-borse-di-studio-34338)) [01 Agosto 2021];
-- Bugo Hunter __[Discord](https://discord.gg/discord-testers)__ (Bug Reported: 3 | Bug Aproved: 2) [Da Luglio 2020 - Dicembre 2021].
+- Bug Hunter __[Discord](https://discord.gg/discord-testers)__ (Bug Riportati: 3 | Bug Approvati: 2) [Da Luglio 2020 - Dicembre 2021].
 
 <h2 align="left">Link:</h2>
 
