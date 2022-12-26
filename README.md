@@ -27,7 +27,9 @@ Attività virtuali:
 Attività passate nella vita reale:
 - Animatore per la parrocchia di __[Santa Maria Maddalena](https://www.arcidiocesi.vc.it/vicarie/vercelli/parrocchia-santa-maria-maddalena/)__ [2017 - 2020];
 - Animatore per la parrocchia di __[San Giuseppe](https://www.arcidiocesi.vc.it/vicarie/vercelli/parrocchia-san-giuseppe/)__ [2017 - 2020];
-- Primo flauto traversiere durante l'edizione 2021 del Corso Internazionale Di Musica dell'__[Accademia del Ricercare](https://accademiadelricercare.com/) ([Grillen-Symphonie di Georg Philipp Telemann](https://youtu.be/PuFJ8VmwsOI))__ [01 Agosto 2021].
+- Primo flauto traversiere durante l'edizione 2021 del Corso Internazionale Di Musica dell'__[Accademia del Ricercare](https://accademiadelricercare.com/) ([Grillen-Symphonie di Georg Philipp Telemann](https://youtu.be/PuFJ8VmwsOI))__ [01 Agosto 2021];
+- Tecnico audio nel concerto della [parrocchia di Pollone (BI)](https://lasesia.vercelli.it/scuola/2022/12/12/news/al-civico-il-concerto-di-natale-del-liceo-musicale-lagrangia-114918/) [18 dicembre 2022];
+- Tecnico audio e flautista nel concerto al Teatro cinico di Crescitino eseguito dalla [Jazz Orchestra](https://www.iislagrangia.it/pagine/concerto-della-jazz-orchestra---20-dicembre-a-crescentino) di Vercelli [20 dicembre 2022].
 
 Attività passate virtuali:
 - Creatore del server Discord __Horuki_ (+500 membri) [Dicembre 2021 - Marzo 2022];
