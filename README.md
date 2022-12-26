@@ -18,7 +18,6 @@ Attività nella vita reale:
 - Volontario per la __[Comunità Di Sant'Egidio](https://www.santegidio.org/)__.
 
 Attività virtuali:
-- Moderatore del server Discord __[O R A N](https://discord.gg/uhPQAwTzgm)__ (+3000 membri) [Luglio 2022 - ???];
 - Modeartore del server Discord __[Earth Community](https://discord.gg/HTHqGzcyzA)__ (+7300 membri) [Febbraio 2022 - ???];
 - Moderatore del server Discord __[Mappa Discord Italia](https://discord.gg/zRRuJ2E)__ (+500 membri) [Settembre 2021 - ???];
 - Moderatore del server Discord __[The Kingdom Of Mario](https://discord.gg/MscnY7kFpU)__ (+3000 membri) [Marzo 2021 - ???];
@@ -32,6 +31,7 @@ Attività passate nella vita reale:
 
 Attività passate virtuali:
 - Creatore del server Discord __Horuki_ (+500 membri) [Dicembre 2021 - Marzo 2022];
+- Creatore del server Discord __[O R A N]__ (+2900 membri) [Luglio 2022 - Ottobre 2022]
 - Creatore del server Discord __Chill Vibes__ (+2000 membri) [Luglio 2021 - Dicembre 2021];
 - Creatore  del server Discord __ChillWumpsHouse__ (+1300 membri) [Luglio 2020 - Aprile 2021];
 - CEO del server Discord __GamingCommunityItalian__ (+900 membri) [Maggio 2020 - Agosto 2020];
@@ -96,5 +96,3 @@ Meriti:
 - Instagram: [iosonodavid__](https://instagram.com/iosonodavid__/)
 
 ![Visite al profilo](https://komarev.com/ghpvc/?username=DavidCavallaro&color=blueviolet) | ![Followers](https://img.shields.io/badge/Followers-10-blueviolet) | ![Seguiti](https://img.shields.io/badge/Following-14-blueviolet) | ![Profile Stars](https://img.shields.io/badge/Stars-23-blueviolet)
-
-[![Discord](https://i.imgur.com/SAkgYLO.gif)](https://discord.gg/uhPQAwTzgm)
