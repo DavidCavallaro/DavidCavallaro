@@ -18,6 +18,7 @@ Attività nella vita reale:
 - Volontario per la __[Comunità Di Sant'Egidio](https://www.santegidio.org/)__.
 
 Attività virtuali:
+- Helper e Gestore del server __[OceanHub](https://discord.gg/oceanhub)__ (+3400 membri) [Gennaio 2023 - ???];
 - Modeartore del server Discord __[Earth Community](https://discord.gg/HTHqGzcyzA)__ (+7300 membri) [Febbraio 2022 - ???];
 - Moderatore del server Discord __[Mappa Discord Italia](https://discord.gg/zRRuJ2E)__ (+500 membri) [Settembre 2021 - ???];
 - Moderatore del server Discord __[The Kingdom Of Mario](https://discord.gg/MscnY7kFpU)__ (+3000 membri) [Marzo 2021 - ???];
