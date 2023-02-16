@@ -18,16 +18,10 @@ Attività nella vita reale:
 - Volontario per la __[Comunità Di Sant'Egidio](https://www.santegidio.org/)__.
 
 Attività virtuali:
-- Helper e Gestore del server __[OceanHub](https://discord.gg/oceanhub)__ (+3400 membri) [Gennaio 2023 - ???];
-- Modeartore del server Discord __[Earth Community](https://discord.gg/HTHqGzcyzA)__ (+7300 membri) [Febbraio 2022 - ???];
 - Moderatore del server Discord __[Mappa Discord Italia](https://discord.gg/zRRuJ2E)__ (+500 membri) [Settembre 2021 - ???];
-- Moderatore del server Discord __[The Kingdom Of Mario](https://discord.gg/MscnY7kFpU)__ (+3000 membri) [Marzo 2021 - ???];
-- Proprietario del Bot Discord __[Tea Time Anime BOT](https://discord.com/oauth2/authorize?client_id=715708694855417896&scope=bot%20applications.commands&permissions=2147483647)__ (+360 servers);
-- Proprietario del Bot Discord __[Friday Night Funkin' BOT](https://discord.com/oauth2/authorize?client_id=840217202862325780&scope=bot&permissions=37080640)__ (+2020 servers).
+- Moderatore del server Discord __[The Kingdom Of Mario](https://discord.gg/MscnY7kFpU)__ (+3000 membri) [Marzo 2021 - ???]
 
 Attività passate nella vita reale:
-- Animatore per la parrocchia di __[Santa Maria Maddalena](https://www.arcidiocesi.vc.it/vicarie/vercelli/parrocchia-santa-maria-maddalena/)__ [2017 - 2020];
-- Animatore per la parrocchia di __[San Giuseppe](https://www.arcidiocesi.vc.it/vicarie/vercelli/parrocchia-san-giuseppe/)__ [2017 - 2020];
 - Primo flauto traversiere durante l'edizione 2021 del Corso Internazionale Di Musica dell'__[Accademia del Ricercare](https://accademiadelricercare.com/) ([Grillen-Symphonie di Georg Philipp Telemann](https://youtu.be/PuFJ8VmwsOI))__ [01 Agosto 2021];
 - Tecnico audio nel concerto della [parrocchia di Pollone (BI)](https://lasesia.vercelli.it/scuola/2022/12/12/news/al-civico-il-concerto-di-natale-del-liceo-musicale-lagrangia-114918/) [18 dicembre 2022];
 - Tecnico audio e flautista nel concerto al Teatro cinico di Crescitino eseguito dalla [Jazz Orchestra](https://www.iislagrangia.it/pagine/concerto-della-jazz-orchestra---20-dicembre-a-crescentino) di Vercelli [20 dicembre 2022].
@@ -56,10 +50,6 @@ Attività passate virtuali:
 - Helper, Moderatore, Pluginner e Admin del server Minecraft __[ImperialCraft](https://www.minecraft-italia.it/server/imperialcraft)__ (+50 online players) [Gennaio 2021 - Marzo 2021];
 - Moderatore, Pluginner e Gestore Modalità del server Minecraft __[MineJoJo](https://www.minecraft-italia.it/server/minejojo)__ (+20 online players) [Settembre 2021 - Novembre 2021];
 - ChatMod del server Minecraft __[RubyCraft](https://www.minecraft-italia.it/server/rubycraft)__ (+40 online players) [Febbraio 2021 - Marzo 2021];
-- Moderatore del canale Twitch __[psycocat_](https://www.twitch.tv/psycocat_)__ [2017 - 2019];
-- Moderatore del canale Twitch __[Gayasai](https://www.twitch.tv/gayasai)__ [2019 - 2020];
-- Moderatore del canale Twitch __[XpazzoX](https://www.twitch.tv/xpazzox_official)__ [2017 - 2018];
-- Moderatore del canale Twitch __[Ald01ne](https://www.twitch.tv/ald01ne)__ [2017 - 2019].
 
 Meriti:
 - Vincitore di un flauto traversiere durante il  __[Accademia del Ricercare](https://accademiadelricercare.com/)__. (fonti: [La Sentinella del Canavese](https://lasentinella.gelocal.it/ivrea/cronaca/2021/08/06/news/dai-corsi-di-musica-antica-ecco-i-giovani-piu-promettenti-1.40576079) - [CanaveseLocal](https://www.canaveselocal.it/2021/08/26/romano-canavese-corso-internazionale-di-musica-antica-i-vincitori/?utm_source=rss&utm_medium=rss&utm_campaign=romano-canavese-corso-internazionale-di-musica-antica-i-vincitori) - [QC Quotidiano del Canavese](https://www.quotidianocanavese.it/cultura-eventi/romano-canavese-corso-internazionale-di-musica-antica-assegnate-le-borse-di-studio-34338)) [01 Agosto 2021];
