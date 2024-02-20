@@ -4,27 +4,23 @@ __Index__: [Informazioni Personali](https://github.com/DavidCavallaro#informazio
 <h2 align="left">Informazioni Personali:</h2>
 
 - Nome e Cognome: David Cavallaro;
-- Età: 19;
+- Età: 20;
 - Nato il: 27 settembre 2003;
 - Nato e Residente in: Piemonte, Italy;
-- Professione: Tecnico del Suono, Amministratore.
+- Professione: Organizzatore di eventi musicali.
 
 <h2 align="left">Curriculum:</h2>
 
 Attività nella vita reale:
 
-- Dipendente per la stagione concertistica 2020-2021, 2021-2022 e 2022-2023 del __[Viotti Festival](http://www.viottifestival.it/_dynapage/index_Home.asp?pageId=78&primopiano=1)__;
-- Libero professionista;
-- Volontario per la __[Comunità Di Sant'Egidio](https://www.santegidio.org/)__.
-
-Attività virtuali:
-- Moderatore del server Discord __[Mappa Discord Italia](https://discord.gg/zRRuJ2E)__ (+500 membri) [Settembre 2021 - ???];
-- Moderatore del server Discord __[The Kingdom Of Mario](https://discord.gg/MscnY7kFpU)__ (+3000 membri) [Marzo 2021 - ???]
+- Dipendente per la stagione concertistica 2020-2021, 2021-2022, 2022-2023 e 2023-2024 __[Viotti Festival](http://www.viottifestival.it/_dynapage/index_Home.asp?pageId=78&primopiano=1)__.
 
 Attività passate nella vita reale:
 - Primo flauto traversiere durante l'edizione 2021 del Corso Internazionale Di Musica dell'__[Accademia del Ricercare](https://accademiadelricercare.com/) ([Grillen-Symphonie di Georg Philipp Telemann](https://youtu.be/PuFJ8VmwsOI))__ [01 Agosto 2021];
 - Tecnico audio nel concerto della [parrocchia di Pollone (BI)](https://lasesia.vercelli.it/scuola/2022/12/12/news/al-civico-il-concerto-di-natale-del-liceo-musicale-lagrangia-114918/) [18 dicembre 2022];
-- Tecnico audio e flautista nel concerto al Teatro cinico di Crescitino eseguito dalla [Jazz Orchestra](https://www.iislagrangia.it/pagine/concerto-della-jazz-orchestra---20-dicembre-a-crescentino) di Vercelli [20 dicembre 2022].
+- Tecnico audio e flautista nel concerto al Teatro cinico di Crescitino eseguito dalla [Jazz Orchestra](https://www.iislagrangia.it/pagine/concerto-della-jazz-orchestra---20-dicembre-a-crescentino) di Vercelli [20 dicembre 2022];
+- Libero professionista;
+- Volontario per la __[Comunità Di Sant'Egidio](https://www.santegidio.org/)__.
 
 Attività passate virtuali:
 - Creatore del server Discord __Horuki_ (+500 membri) [Dicembre 2021 - Marzo 2022];
@@ -37,6 +33,8 @@ Attività passate virtuali:
 - Possessore dell'organizzazione virtuale __[Chill Vibes](https://github.com/Chill-Vabes)__ [Luglio 2021 - Dicembre 2021];
 - Executive Admin  del server Discord __[TheZoo Community](https://discord.gg/c2mkpPAw8J)__ (+12700 membri) [Febbraio 2021 - Luglio 2021];
 - Admin  del server Discord e lista Bot __Cybotlist__ [October 2021 - membri 2021]
+- Moderatore del server Discord __[Mappa Discord Italia](https://discord.gg/zRRuJ2E)__ (+500 membri) [Settembre 2021 - Settembre 2023];
+- Moderatore del server Discord __[The Kingdom Of Mario](https://discord.gg/MscnY7kFpU)__ (+3000 membri) [Marzo 2021 - Settembre 2023]
 - Moderatore e Reviewer del server Discord __[InfinityBotList](https://botlist.site)__ | __[GitHub](https://github.com/InfinityBotList)__; [Luglio 2021 Agosto 2021]
 - Developer del server Discord __[KuraiK](https://discord.gg/PW4MAvhMRe)__ server (+1300 membri) [Giugno 2021 - Luglio 2021];
 - Helper e Pluginner del server Discord e Minecraft __[4Tuna | eSports](https://discord.gg/K2e5fd6Hyn)__ server (+1700 membri) [Giugno 2021 - Ottobre 2021];
