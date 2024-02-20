@@ -23,23 +23,23 @@ Attività passate nella vita reale:
 - Volontario per la __[Comunità Di Sant'Egidio](https://www.santegidio.org/)__.
 
 Attività passate virtuali:
-- Creatore del server Discord __Horuki_ (+500 membri) [Dicembre 2021 - Marzo 2022];
-- Creatore del server Discord __[O R A N]__ (+2900 membri) [Luglio 2022 - Ottobre 2022]
-- Creatore del server Discord __Chill Vibes__ (+2000 membri) [Luglio 2021 - Dicembre 2021];
-- Creatore  del server Discord __ChillWumpsHouse__ (+1300 membri) [Luglio 2020 - Aprile 2021];
-- CEO del server Discord __GamingCommunityItalian__ (+900 membri) [Maggio 2020 - Agosto 2020];
+- Creatore del server Discord __Horuki__ (+900 membri) [Dicembre 2021 - Marzo 2022];
+- Creatore del server Discord __[O R A N]__ (+3000 membri) [Luglio 2022 - Ottobre 2022]
+- Creatore del server Discord __Chill Vibes__ (+2400 membri) [Luglio 2021 - Dicembre 2021];
+- Creatore  del server Discord __ChillWumpsHouse__ (+1900 membri) [Luglio 2020 - Aprile 2021];
+- CEO del server Discord __GamingCommunityItalian__ (+1000 membri) [Maggio 2020 - Agosto 2020];
 - CEO del server Discord __Coldsea ℓꪮ𝒇𝓲 ♡__ (+1700 membri) [Gennaio 2022 - Febbraio 2022];
 - Creatore del forum __Evostack Forum__ [Gennaio 2021 - Luglio 2021];
 - Possessore dell'organizzazione virtuale __[Chill Vibes](https://github.com/Chill-Vabes)__ [Luglio 2021 - Dicembre 2021];
 - Executive Admin  del server Discord __[TheZoo Community](https://discord.gg/c2mkpPAw8J)__ (+12700 membri) [Febbraio 2021 - Luglio 2021];
-- Admin  del server Discord e lista Bot __Cybotlist__ [October 2021 - membri 2021]
+- Admin  del server Discord e lista Bot __Cybotlist__ [October 2021 - membri 2021];
 - Moderatore del server Discord __[Mappa Discord Italia](https://discord.gg/zRRuJ2E)__ (+500 membri) [Settembre 2021 - Settembre 2023];
-- Moderatore del server Discord __[The Kingdom Of Mario](https://discord.gg/MscnY7kFpU)__ (+3000 membri) [Marzo 2021 - Settembre 2023]
-- Moderatore e Reviewer del server Discord __[InfinityBotList](https://botlist.site)__ | __[GitHub](https://github.com/InfinityBotList)__; [Luglio 2021 Agosto 2021]
-- Developer del server Discord __[KuraiK](https://discord.gg/PW4MAvhMRe)__ server (+1300 membri) [Giugno 2021 - Luglio 2021];
-- Helper e Pluginner del server Discord e Minecraft __[4Tuna | eSports](https://discord.gg/K2e5fd6Hyn)__ server (+1700 membri) [Giugno 2021 - Ottobre 2021];
+- Moderatore del server Discord __[The Kingdom Of Mario](https://discord.gg/MscnY7kFpU)__ (+3000 membri) [Marzo 2021 - Settembre 2023];
+- Moderatore e Reviewer del server Discord __[InfinityBotList](https://botlist.site)__ | __[GitHub](https://github.com/InfinityBotList)__; [Luglio 2021 Agosto 2021];
+- Developer del server Discord __[KuraiK](https://discord.gg/PW4MAvhMRe)__ (+1300 membri) [Giugno 2021 - Luglio 2021];
+- Helper e Pluginner del server Discord e Minecraft __[4Tuna | eSports](https://discord.gg/K2e5fd6Hyn)__ (+1700 membri) [Giugno 2021 - Ottobre 2021];
 - Helper, Moderatore, Admin e Amministratore del server Discord __[SpaceHub](https://discord.gg/nN9FW5zhvM)__ (+5000 membri) [Febbraio 2019 - Aprile 2021];
-- Helper, Moderatore, Admin e Amministratore del server Discord __PokèWorld__(+800 membri) [Giugno 2019 - Novembre 2019];
+- Helper, Moderatore, Admin e Amministratore del server Discord __PokèWorld__ (+800 membri) [Giugno 2019 - Novembre 2019];
 - Helper, Moderator e Staff Manager del server Discord __EthyriumZone__ (+400 membri) [April 2019 - June 2019];
 - Helper, Admin e Creatore del server Minecraft __KalyNetwork__ (+25 online players) [February 2020 - April 2020];
 - Informatore del server Discord __[Favij's Sgabuzzino](https://discord.gg/favij)__ (+15200 membri) [Febbraio 2021 - Luglio 2021];
